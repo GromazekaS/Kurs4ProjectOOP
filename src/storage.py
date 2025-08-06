@@ -1,7 +1,8 @@
 import json
 from abc import ABC, abstractmethod
+from typing import Any, Dict, List, Optional
+
 from src.vacancy import Vacancy
-from typing import Dict, List, Any, Optional
 
 
 class Storage(ABC):
@@ -23,7 +24,7 @@ class Storage(ABC):
 class JSONSaver(Storage):
     """Класс для сохранения вакансий в JSON-файл"""
 
-    def __init__(self, filename: str="data/vacancies.json") -> None:
+    def __init__(self, filename: str = "data/vacancies.json") -> None:
         self.filename = filename
 
     def add_vacancy(self, vacancy: Vacancy) -> None:
@@ -34,7 +35,7 @@ class JSONSaver(Storage):
             "link": vacancy.link,
             "salary": vacancy.salary,
             "description": vacancy.description,
-            "employer": vacancy.employer
+            "employer": vacancy.employer,
         }
         data.append(vacancy_dict)
         self._write_file(data)

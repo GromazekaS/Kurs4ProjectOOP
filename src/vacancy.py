@@ -1,10 +1,12 @@
-from typing import Dict, List, Any, Optional
+from typing import Any, Dict, List, Optional
 
 
 class Vacancy:
     """Класс для представления вакансии"""
 
-    def __init__(self, title: str, link: str, salary: Optional[Dict[str, Any]], description: str, employer:str) -> None:
+    def __init__(
+        self, title: str, link: str, salary: Optional[Dict[str, Any]], description: str, employer: str
+    ) -> None:
         self.title = title
         self.link = link
         self.salary = self.validate_salary(salary)
@@ -20,11 +22,7 @@ class Vacancy:
         salary_to = salary_data.get("to") or 0
         currency = salary_data.get("currency", "RUR")
 
-        return {
-            "from": salary_from,
-            "to": salary_to,
-            "currency": currency
-        }
+        return {"from": salary_from, "to": salary_to, "currency": currency}
 
     @property
     def avg_salary(self) -> float:
@@ -33,11 +31,11 @@ class Vacancy:
             return (self.salary["from"] + self.salary["to"]) / 2
         return float(self.salary["from"] or self.salary["to"] or 0)
 
-    def __lt__(self, other: 'Vacancy') -> bool:
+    def __lt__(self, other: "Vacancy") -> bool:
         """Сравнение вакансий по средней зарплате (меньше)"""
         return self.avg_salary < other.avg_salary
 
-    def __gt__(self, other: 'Vacancy') -> bool:
+    def __gt__(self, other: "Vacancy") -> bool:
         """Сравнение вакансий по средней зарплате (больше)"""
         return self.avg_salary > other.avg_salary
 
@@ -58,7 +56,7 @@ class Vacancy:
         )
 
     @staticmethod
-    def cast_to_object_list(vacancies_data: List[Dict[str, Any]]) -> List['Vacancy']:
+    def cast_to_object_list(vacancies_data: List[Dict[str, Any]]) -> List["Vacancy"]:
         """Преобразование JSON-данных в список объектов Vacancy"""
         vacancies = []
         for item in vacancies_data:
@@ -67,7 +65,7 @@ class Vacancy:
                 link=item.get("alternate_url", "#"),
                 salary=item.get("salary"),
                 description=item.get("snippet", {}).get("requirement", ""),
-                employer=item.get("employer", {}).get("name", "Неизвестно")
+                employer=item.get("employer", {}).get("name", "Неизвестно"),
             )
             vacancies.append(vacancy)
         return vacancies

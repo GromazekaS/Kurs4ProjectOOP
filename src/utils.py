@@ -1,6 +1,3 @@
-from typing import Dict, List, Any, Optional
-
-
 def filter_vacancies(vacancies: list, filter_words: list) -> list:
     """Фильтрация вакансий по ключевым словам"""
     if not filter_words:
@@ -8,8 +5,10 @@ def filter_vacancies(vacancies: list, filter_words: list) -> list:
 
     filtered = []
     for vacancy in vacancies:
-        if vacancy.description: description = vacancy.description.lower()
-        else: description = ''
+        if vacancy.description:
+            description = vacancy.description.lower()
+        else:
+            description = ""
         title = vacancy.title.lower()
         words = " ".join([title, description])
 
