@@ -1,36 +1,38 @@
-from src.logger import logger_setup
-from src.utils import main_page, get_transactions_from_jsonfile, get_transactions_from_excel_file
-from src.services import search_transactions_to_person
-from src.reports import spending_by_category
-
-PATH_PREFIX = "data/"
-logger = logger_setup("main")
+from src.external_api import HeadHunterAPI
+from src.vacancy import Vacancy
+from src.storage import JSONSaver
+from src.utils import filter_vacancies, sort_vacancies, get_top_vacancies, print_vacancies
 
 
-def main() -> None:
-    """Основная часть программы!!!"""
-    data_file = 'operations.xlsx'
-    config_file = 'user_config.json'
-    operations = get_transactions_from_excel_file(PATH_PREFIX + data_file)
-    user_config = get_transactions_from_jsonfile(PATH_PREFIX + config_file)
-    # Веб-страницы. Главная:
-    print(main_page(operations, user_config))
+def user_interaction():
+    """Функция взаимодействия с пользователем"""
+    hh_api = HeadHunterAPI()
+    saver = JSONSaver()
 
-    # Сервисы. Поиск переводов физическим лицам
-    print(search_transactions_to_person(operations)[:5:])
+    # Ввод данных пользователем
+    search_query = input("Введите поисковый запрос (например: Python): ")
+    top_n = int(input("Введите количество вакансий для вывода в топ N: "))
+    filter_words = input("Введите ключевые слова для фильтрации вакансий (через пробел): ").split()
 
-    # Отчеты. Траты по категории
-    # Список категорий:
-    # ['Супермаркеты', 'Различные товары', 'Переводы', 'Каршеринг', 'Пополнения', 'Канцтовары', 'Ж/д билеты', 'Фастфуд',
-    #  'Дом и ремонт', 'Аптеки', 'Связь', 'Такси', 'Транспорт', 'Цветы', 'Развлечения', 'Госуслуги', 'Местный транспорт',
-    #  'Другое', 'Бонусы', 'Топливо', 'Услуги банка', 'Сервис', 'ЖКХ', 'Детские товары', 'Косметика', 'Одежда и обувь',
-    #  'НКО', 'Электроника и техника', 'Наличные', 'Сувениры', 'Мобильная связь', 'Медицина', 'Фото и видео',
-    #  'Онлайн-кинотеатры', 'Авиабилеты', 'Образование', 'Рестораны', 'Частные услуги', 'Красота', 'Турагентства',
-    #  'Книги', 'Отели', 'Кино', 'Спорттовары', 'Автоуслуги', 'Зарплата', 'Финансы', 'Искусство', 'Duty Free']
-    category = "Фастфуд"
-    date = "31.01.2020"
-    print(spending_by_category(operations, category, date).to_dict(orient="records"))
+    # Получение данных с API
+    vacancies_data = hh_api.get_vacancies(search_query)
+    vacancies_list = Vacancy.cast_to_object_list(vacancies_data)
+
+    # Сохранение в файл
+    for vacancy in vacancies_list:
+        saver.add_vacancy(vacancy)
+
+    # Фильтрация и сортировка
+    filtered_vacancies = filter_vacancies(vacancies_list, filter_words)
+    sorted_vacancies = sort_vacancies(filtered_vacancies)
+    top_vacancies = get_top_vacancies(sorted_vacancies, top_n)
+
+    # Вывод результатов
+    print(f"\nНайдено вакансий: {len(vacancies_list)}")
+    print(f"Отфильтровано вакансий: {len(filtered_vacancies)}")
+    print(f"\nТоп-{top_n} вакансий по зарплате:")
+    print_vacancies(top_vacancies)
 
 
 if __name__ == "__main__":
-    main()
+    user_interaction()
