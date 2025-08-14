@@ -25,24 +25,24 @@ class JSONSaver(Storage):
     """Класс для сохранения вакансий в JSON-файл"""
 
     def __init__(self, filename: str = "data/vacancies.json") -> None:
-        self.filename = filename
+        self.__filename: str = filename
 
     def add_vacancy(self, vacancy: Vacancy) -> None:
         """Добавление вакансии в файл"""
-        data = self._read_file()
+        data = self.__read_file()
         vacancy_dict = {
             "title": vacancy.title,
             "link": vacancy.link,
             "salary": vacancy.salary,
             "description": vacancy.description,
-            "employer": vacancy.employer,
+            "employer": vacancy.employer
         }
         data.append(vacancy_dict)
-        self._write_file(data)
+        self.__write_file(data)
 
     def get_vacancies(self, criteria: Optional[Dict[str, Any]] = None) -> List[Dict[str, Any]]:
         """Получение вакансий по критериям"""
-        data = self._read_file()
+        data = self.__read_file()
         if not criteria:
             return data
 
@@ -51,12 +51,10 @@ class JSONSaver(Storage):
             match = True
             for key, value in criteria.items():
                 if key == "salary":
-                    # Фильтр по зарплате
-                    salary = item.get("salary", {})
-                    if value == "with_salary" and (salary.get("from") is None and salary.get("to") is None):
+                    if value == "with_salary" and (
+                            item.get("salary", {}).get("from") is None and item.get("salary", {}).get("to") is None):
                         match = False
                 else:
-                    # Фильтр по другим полям
                     if value.lower() not in str(item.get(key, "")).lower():
                         match = False
             if match:
@@ -65,19 +63,19 @@ class JSONSaver(Storage):
 
     def delete_vacancy(self, vacancy: Vacancy) -> None:
         """Удаление вакансии из файла"""
-        data = self._read_file()
+        data = self.__read_file()
         new_data = [item for item in data if item["link"] != vacancy.link]
-        self._write_file(new_data)
+        self.__write_file(new_data)
 
-    def _read_file(self) -> List[Dict[str, Any]]:
+    def __read_file(self) -> List[Dict[str, Any]]:
         """Чтение данных из файла"""
         try:
-            with open(self.filename, "r", encoding="utf-8") as f:
+            with open(self.__filename, "r", encoding="utf-8") as f:
                 return json.load(f)
         except (FileNotFoundError, json.JSONDecodeError):
             return []
 
-    def _write_file(self, data: List[Dict[str, Any]]) -> None:
+    def __write_file(self, data: List[Dict[str, Any]]) -> None:
         """Запись данных в файл"""
-        with open(self.filename, "w", encoding="utf-8") as f:
+        with open(self.__filename, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)

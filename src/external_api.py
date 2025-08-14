@@ -6,6 +6,9 @@ import requests
 
 class JobAPI(ABC):
     """Абстрактный класс для работы с API вакансий"""
+    @abstractmethod
+    def connect(self) -> None:
+        pass
 
     @abstractmethod
     def get_vacancies(self, search_query: str, area_id: int = 113, per_page: int = 100) -> List[Dict[str, Any]]:
@@ -18,6 +21,14 @@ class HeadHunterAPI(JobAPI):
     def __init__(self) -> None:
         self.base_url = "https://api.hh.ru/vacancies"
         self.headers = {"User-Agent": "VacancyParser/1.0 (support@example.ru)"}
+
+    def connect(self) -> None:
+        """Публичный метод подключения (требование абстрактного класса)"""
+        self.__connect_api()
+
+    def __connect_api(self) -> None:
+        """Приватный метод для реального подключения к API"""
+        pass
 
     def get_vacancies(self, search_query: str, area_id: int = 113, per_page: int = 100) -> List[Dict[str, Any]]:
         """Получение вакансий по запросу"""

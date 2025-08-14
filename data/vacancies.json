@@ -3298,5 +3298,1105 @@
     },
     "description": "Водительское удостоверение категории \"В\", \"С\". Водительский стаж не менее трех лет. Наличие санитарной книжки.",
     "employer": "Вишера-Плюс"
+  },
+  {
+    "title": "Младший разработчик C# (.Net Core)",
+    "link": "https://hh.ru/vacancy/123542191",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт написания приложений и плагинов в среде Visual Studio. Навыки работы с одной из СУБД Microsoft SQL Server или PostgreSQL. ",
+    "employer": "Офис-Док"
+  },
+  {
+    "title": "Младший разработчик .NET C#",
+    "link": "https://hh.ru/vacancy/123303905",
+    "salary": {
+      "from": 110000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки (можно пет-проекты) на <highlighttext>C#</highlighttext> .NET Core. Умение работать с Git. Базовое знание SQL (SELECT, JOIN, транзакции). ",
+    "employer": "Pentestnotes"
+  },
+  {
+    "title": "Младший программист C#",
+    "link": "https://hh.ru/vacancy/123555163",
+    "salary": {
+      "from": 44000,
+      "to": 66000,
+      "currency": "RUR"
+    },
+    "description": "Высшее или средне-специальное техническое образование. Готовы рассмотреть выпускников. Уверенные базовые знания <highlighttext>C#</highlighttext>. Понимание основ ООП. Умение и желание разбираться...",
+    "employer": "ЕРЦ"
+  },
+  {
+    "title": "C# разработчик",
+    "link": "https://hh.ru/vacancy/123617777",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "ASP.NET MVC, Blazor. Entity Framework. Потребуется: Понимание основ ООП. Базовое знание HTML, CSS, JavaScript. Хорошее знание SQL. Понимание работы многопоточных...",
+    "employer": "Диджитал Лодж"
+  },
+  {
+    "title": "Backend-разработчик (C# / ASP.NET Core)",
+    "link": "https://hh.ru/vacancy/123707417",
+    "salary": {
+      "from": 170000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенные знания <highlighttext>C#</highlighttext> и ASP.NET Core. Опыт проектирования и реализации API / микросервисов. Уверенная работа с PostgreSQL. Умение работать с системами...",
+    "employer": "CRT"
+  },
+  {
+    "title": "C# (.net) developer",
+    "link": "https://hh.ru/vacancy/123986630",
+    "salary": {
+      "from": 130000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки на <highlighttext>C#</highlighttext> от 1 года. Большой плюс — знание/опыт работы на базе .net MVC (framework или core не...",
+    "employer": "СКБ Техно"
+  },
+  {
+    "title": "Разработчик C#",
+    "link": "https://hh.ru/vacancy/123323277",
+    "salary": {
+      "from": 0,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "Отличное знание <highlighttext>C#</highlighttext>. Базовые знания SQL. Опыт разработки многопоточных приложений. Опыт создания REST API с использованием ASP.NET Minimal API и...",
+    "employer": "Амбрелла"
+  },
+  {
+    "title": "Разработчик .Net/С#",
+    "link": "https://hh.ru/vacancy/122950696",
+    "salary": {
+      "from": 180000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт в разработке на <highlighttext>C#</highlighttext> (WinForms, Wpf). Знание принципов ООП, логичность структуры и стиля исходного кода, соблюдение naming-conventions. ",
+    "employer": "Плейспартс"
+  },
+  {
+    "title": "Senior C# Developer (HFT)",
+    "link": "https://hh.ru/vacancy/122848944",
+    "salary": {
+      "from": 800000,
+      "to": 1000000,
+      "currency": "RUR"
+    },
+    "description": "Опыт написания zero-allocation кода на <highlighttext>C#</highlighttext>: умение выявлять и устранять аллокации, знание особенностей CLR/GC.  Хорошее знание протоколов, применяемых...",
+    "employer": "ArtVolkov.ru"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "link": "https://hh.ru/vacancy/123942374",
+    "salary": {
+      "from": 0,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой backend-разработки на .NET от 3 лет с глубоким знанием <highlighttext>C#</highlighttext> (8.0+). Практический опыт работы с...",
+    "employer": "Аддамант"
+  },
+  {
+    "title": "Разработчик backend .Net (Middle)",
+    "link": "https://hh.ru/vacancy/123017412",
+    "salary": {
+      "from": 110000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>C#</highlighttext> 2+ года. Уверенное знание <highlighttext>C#</highlighttext> и .NET Core. Уверенное знание EntityFrameworkCore. Опыт работы с...",
+    "employer": "Инсап"
+  },
+  {
+    "title": "Middle Fullstack C# Developer",
+    "link": "https://hh.ru/vacancy/123880869",
+    "salary": {
+      "from": 170000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Знание основных паттернов проектирования и умение их применять. Уверенное владение <highlighttext>C#</highlighttext>, Entity Framework, WPF. Знание и опыт работы с платформой...",
+    "employer": "Смарт Мил Сервис"
+  },
+  {
+    "title": "Инженер-программист (Web-разработчик)",
+    "link": "https://hh.ru/vacancy/123351026",
+    "salary": {
+      "from": 70000,
+      "to": 100000,
+      "currency": "RUR"
+    },
+    "description": "....NET Core (<highlighttext>C#</highlighttext>). База данных: MS SQL. ​​​​​​Уверенное знание JavaScript (ajax), поскольку это основной инструмент работы. Знание <highlighttext>С#</highlighttext>, ASP.NET. Git. ",
+    "employer": "Пэйстикс"
+  },
+  {
+    "title": "Junior C# .Net Developer",
+    "link": "https://hh.ru/vacancy/119967858",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки на <highlighttext>С#</highlighttext> с использованием UWP/WPF. Знание MVVM. Понимание принципов ООП. Опыт работы в Visual Studio. ",
+    "employer": "InlyIT"
+  },
+  {
+    "title": "Программист С#, MS SQL",
+    "link": "https://hh.ru/vacancy/123991288",
+    "salary": {
+      "from": 0,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Свободно ориентироваться в работе баз данных. Иметь познания в <highlighttext>C#</highlighttext> и winforms. Опыт работы (в программировании либо тестировании, либо в...",
+    "employer": "Модуль"
+  },
+  {
+    "title": "Senior C# разработчик сервисов роботизации торговли",
+    "link": "https://hh.ru/vacancy/120690340",
+    "salary": {
+      "from": 350000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы в качестве <highlighttext>C#</highlighttext> Backend программиста от 5-ти лет. Знание <highlighttext>C#</highlighttext> и .NET 7+ (включая ASP.NET Core...",
+    "employer": "Нью ривер"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "link": "https://hh.ru/vacancy/123910028",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>C#</highlighttext> от 3 лет. Глубокое знание .NET Core (версии 6/7/8, готовность к работе с...",
+    "employer": "MP Manager"
+  },
+  {
+    "title": "Программист С# (Программист ИС на С#)",
+    "link": "https://hh.ru/vacancy/123909080",
+    "salary": {
+      "from": 190000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки <highlighttext>С#</highlighttext> не менее 3-х лет. - Опыт работы с СУБД PostgreSQL, ASP.NET не менее 3-х лет. - ",
+    "employer": "ФКУ ЦЭАИТ СП"
+  },
+  {
+    "title": "Программист",
+    "link": "https://hh.ru/vacancy/123885738",
+    "salary": {
+      "from": 120000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Обладаете уверенными знаниями и опытом работы с языком программирования <highlighttext>C#</highlighttext>. Имеете опыт работы с базами данных PostgreSQL. Знакомы с протоколом...",
+    "employer": "Миракс"
+  },
+  {
+    "title": "Программист",
+    "link": "https://hh.ru/vacancy/124032996",
+    "salary": {
+      "from": 100000,
+      "to": 120000,
+      "currency": "RUR"
+    },
+    "description": "Навыки оптимизации производительности кода. Опыт разработки на <highlighttext>C#</highlighttext> и .NET 6+ от одного года. Умение работать с REST API. ",
+    "employer": "Меридиан Инжиниринг"
+  },
+  {
+    "title": "Инженер-программист C# (Middle)",
+    "link": "https://hh.ru/vacancy/123513056",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Отличное знание <highlighttext>C#</highlighttext> (с пониманием принципов и паттернов ООП). Отличное знание WPF. Опыт работы с сериализацией сложных структур в JSON...",
+    "employer": "Пожарная автоматика сервис, НПО"
+  },
+  {
+    "title": "C# developer",
+    "link": "https://hh.ru/vacancy/123605675",
+    "salary": {
+      "from": 0,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>C#</highlighttext> от 6 лет на 6-7 проектах. - Глубокое знание .NET6/8, ASP.NET (https://asp.net...",
+    "employer": "Enjoypro"
+  },
+  {
+    "title": ".NET Core Developer",
+    "link": "https://hh.ru/vacancy/123991575",
+    "salary": {
+      "from": 120000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки высоконагруженных сервисов. Опыт разделения монолита на сервисы. Знание трендов по обеспечению отказоустойчивости программных систем.",
+    "employer": "Loymax"
+  },
+  {
+    "title": ". Net разработчик",
+    "link": "https://hh.ru/vacancy/123018670",
+    "salary": {
+      "from": 0,
+      "to": 350000,
+      "currency": "RUR"
+    },
+    "description": "Испытательный срок завершается с того момента когда начинаем выполнять реальные задачи. Опыт работы с <highlighttext>C#</highlighttext> и ГИС-системами (GeoServer). ",
+    "employer": "Информационные Технологии"
+  },
+  {
+    "title": "Разработчик С# / .NET Core",
+    "link": "https://hh.ru/vacancy/122856336",
+    "salary": {
+      "from": 220000,
+      "to": 350000,
+      "currency": "RUR"
+    },
+    "description": "Вдумчивость и понимание смысла своих решений: главный вопрос - \"зачем\". Способность к полной реализации фич от уровня хранения данных до микросервисов. ",
+    "employer": "Клируэй Текнолоджис"
+  },
+  {
+    "title": "Программист C# (Junior)",
+    "link": "https://hh.ru/vacancy/120212302",
+    "salary": {
+      "from": 40800,
+      "to": 58000,
+      "currency": "RUR"
+    },
+    "description": ".NET Framework 4.5+. .NET Core 2.0+. <highlighttext>C#</highlighttext>. ASP.NET/ASP.NET Core (webservices backend). MySQL + EntityFramework/EntityFramework...",
+    "employer": "ПРОГРАММНЫЙ ЦЕНТР"
+  },
+  {
+    "title": "Начинающий программист",
+    "link": "https://hh.ru/vacancy/123594375",
+    "salary": {
+      "from": 65000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание АСУ на ж/д транспорте и базовые навыки программирования на <highlighttext>C#</highlighttext>, Lazarus будет преимуществом. Начальные навыки работы в локальной...",
+    "employer": "Российские железные дороги"
+  },
+  {
+    "title": "Full Stack junior разработчик",
+    "link": "https://hh.ru/vacancy/123211391",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Владение <highlighttext>C#</highlighttext>, .NET 6.0. Реляционные БД (MS SQL Server, PostgreSQL) - иметь базовые знания/курсы, остальному научим в процессе. ",
+    "employer": "КОРТЕОС"
+  },
+  {
+    "title": "Middle Backend developer, C#",
+    "link": "https://hh.ru/vacancy/122703413",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "YouTrack для задач. Прекрасное знание <highlighttext>C#</highlighttext> и платформы .NET. Опыт работы с нагруженными БД большого объёма. Понимание принципов разработки многопоточных...",
+    "employer": "Горбилет"
+  },
+  {
+    "title": ".Net Developer",
+    "link": "https://hh.ru/vacancy/123918134",
+    "salary": {
+      "from": 220000,
+      "to": 280000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное знание и опыт работы с платформой .Net и языком <highlighttext>C#</highlighttext>. Уверенные знания WEB разработки (REST, HTTP, Client-Server). ",
+    "employer": "Рекон Групп"
+  },
+  {
+    "title": "Backend Developer (.NET, C#)",
+    "link": "https://hh.ru/vacancy/123843808",
+    "salary": {
+      "from": 3000,
+      "to": 5000,
+      "currency": "USD"
+    },
+    "description": "4+ лет опыта в <highlighttext>C#</highlighttext>/.NET разработке.  Глубокие знания .NET Core 5/6+ и ASP.NET.  Опыт работы с...",
+    "employer": "Международная компания в сфере iGaming"
+  },
+  {
+    "title": "Разработчик плагинов Revit. C#, WPF",
+    "link": "https://hh.ru/vacancy/123879087",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Обязательно наличие опыта разработки под Revit от 3-х лет (Strong Junior/Middle). Значение <highlighttext>C#</highlighttext>. Умение использовать WPF. ",
+    "employer": "Пекшев Александр Александрович"
+  },
+  {
+    "title": "Junior .Net Developer",
+    "link": "https://hh.ru/vacancy/123742116",
+    "salary": {
+      "from": 105000,
+      "to": 160000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки от 1 года. Знание <highlighttext>C#</highlighttext> и платформы .NET / .NET Core. Понимание принципов ООП, базовых паттернов (например, Repository...",
+    "employer": "Matryoshka"
+  },
+  {
+    "title": "Junior .Net Developer",
+    "link": "https://hh.ru/vacancy/123742114",
+    "salary": {
+      "from": 105000,
+      "to": 160000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки от 1 года. Знание <highlighttext>C#</highlighttext> и платформы .NET / .NET Core. Понимание принципов ООП, базовых паттернов (например, Repository...",
+    "employer": "Matryoshka"
+  },
+  {
+    "title": "Middle/Senior C# разработчик (.net)",
+    "link": "https://hh.ru/vacancy/123966229",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знания .NET и <highlighttext>C#</highlighttext> последних версий. Опыт разработки на <highlighttext>C#</highlighttext>/.NET Core/.NET от 3 лет. Опыт с .Net 6...",
+    "employer": "Банковские и Финансовые Системы"
+  },
+  {
+    "title": "C#/.NET разработчик",
+    "link": "https://hh.ru/vacancy/122719963",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUR"
+    },
+    "description": "Отличное знание OOD, OOA, OOP. <highlighttext>С#</highlighttext> / C++, Visual Studio, Reshaper. .Net Framework / WinForms / WPF, DevExpress, HTTP / XML / SOAP, SQL. ",
+    "employer": "Интрайс"
+  },
+  {
+    "title": "Backend-разработчик (.NET)",
+    "link": "https://hh.ru/vacancy/123919353",
+    "salary": {
+      "from": 50000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "REST API, JSON, JWT. Git, GitHub / GitLab. Опыт разработки на <highlighttext>C#</highlighttext> и .NET (от 3 лет). Уверенное понимание ASP.NET Core...",
+    "employer": "MLSCOPE"
+  },
+  {
+    "title": "Junior-разработчик (Web Scraping & Web Automation, C#/.NET)",
+    "link": "https://hh.ru/vacancy/123733555",
+    "salary": {
+      "from": 60000,
+      "to": 90000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное владение <highlighttext>C#</highlighttext> и платформой .NET. Базовые знания работы с HTTP-запросами (например, использование HttpClient). Понимание основ работы с HTML...",
+    "employer": "Дебтус"
+  },
+  {
+    "title": ".Net Core разработчик",
+    "link": "https://hh.ru/vacancy/122820510",
+    "salary": {
+      "from": 0,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Будет плюсом: Понимание принципов DevOps и опыт взаимодействия с CI/CD пайплайнами. Уверенное знание <highlighttext>C#</highlighttext> и .NET Core от 3...",
+    "employer": "Реал ИТ"
+  },
+  {
+    "title": ".NET Fullstack разработчик",
+    "link": "https://hh.ru/vacancy/123812787",
+    "salary": {
+      "from": 180000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с EF. Опыт разработки с использованием <highlighttext>C#</highlighttext>, NET Core 3.1, .net 6. Опыт работы с Git. ",
+    "employer": "Крокодил"
+  },
+  {
+    "title": "Junior .Net Developer",
+    "link": "https://hh.ru/vacancy/123742115",
+    "salary": {
+      "from": 105000,
+      "to": 160000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки от 1 года. Знание <highlighttext>C#</highlighttext> и платформы .NET / .NET Core. Понимание принципов ООП, базовых паттернов (например, Repository...",
+    "employer": "Matryoshka"
+  },
+  {
+    "title": "Backend-разработчик (C++, C#, .NET, PostgreSQL)",
+    "link": "https://hh.ru/vacancy/121805768",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с C++ и <highlighttext>C#</highlighttext> (.NET). - Знание PostgreSQL. - Опыт работы с Wine (сборка, отладка). - Понимание ООП, умение писать чистый...",
+    "employer": "Графтех"
+  },
+  {
+    "title": "Программист-разработчик",
+    "link": "https://hh.ru/vacancy/123660788",
+    "salary": {
+      "from": 55000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Профильное образование. Знание и понимание принципов ООП. Уверенные знания любого из языков программирования ООП. Навыки работы с СУБД (MySQL, MS...",
+    "employer": "Интеджер"
+  },
+  {
+    "title": "Программист/Разработчик .NET (C#)",
+    "link": "https://hh.ru/vacancy/123694824",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Высшее техническое образование. Знание языка <highlighttext>C#</highlighttext>. Знание платформы .NET. Знание ООП. Опыт работы с MS SQL Server. Опыт работы с...",
+    "employer": "Megatec"
+  },
+  {
+    "title": "Middle C# .NET developer",
+    "link": "https://hh.ru/vacancy/122522867",
+    "salary": {
+      "from": 0,
+      "to": 240000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с <highlighttext>C#</highlighttext> (.Net/.Net Core) более 2 лет. Знания ООП, структур данных и коллекций. Опыт разработки интеграционных и...",
+    "employer": "ЛИПТ Софт"
+  },
+  {
+    "title": "Разработчик C# / Специалист IT-отдела / web разработчик",
+    "link": "https://hh.ru/vacancy/123959913",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание основ SQL; java и java script. <highlighttext>C#</highlighttext>. Работа с БД (желательно PostgreSQL или Oracle). Возможно пройденные курсы Разработчик Bitrix...",
+    "employer": "БАРС-Пенза"
+  },
+  {
+    "title": "Младший MAUI/Xamarin разработчик",
+    "link": "https://hh.ru/vacancy/123941455",
+    "salary": {
+      "from": 0,
+      "to": 70000,
+      "currency": "RUR"
+    },
+    "description": "Навыки и опыт: Опыт не важен, важны знания ООП, <highlighttext>С#</highlighttext>, SQL, XAML и большое желание учиться и развиваться как .NET...",
+    "employer": "AEX Soft"
+  },
+  {
+    "title": "Senior C# developer (english)",
+    "link": "https://hh.ru/vacancy/124022527",
+    "salary": {
+      "from": 0,
+      "to": 5500,
+      "currency": "EUR"
+    },
+    "description": "5+ years of experience in <highlighttext>C#</highlighttext> development (Senior or Lead level). Strong expertise with .NET Core (critical). ",
+    "employer": "Hi, Rockits!"
+  },
+  {
+    "title": "Программист SQL (middle)",
+    "link": "https://hh.ru/vacancy/124019335",
+    "salary": {
+      "from": 180000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": ".Net Framework v.4.8 (очень мало), .Net 6+. MS SQL Server, Postgresql. ASP.Net WebApi 4, ASP.Net 6+...",
+    "employer": "Системные Технологии"
+  },
+  {
+    "title": "Senior .NET Developer (Highload, Fintech)",
+    "link": "https://hh.ru/vacancy/123516254",
+    "salary": {
+      "from": 3000,
+      "to": 4000,
+      "currency": "USD"
+    },
+    "description": "Уверенно владеете .NET и <highlighttext>C#</highlighttext> (опыт 5+ лет). - Разбираетесь в многопоточности и асинхронности. - Понимаете архитектурные паттерны (GoF, GRASP), умели...",
+    "employer": "IndigoSoft"
+  },
+  {
+    "title": "Мобильный разработчик C#/Unity",
+    "link": "https://hh.ru/vacancy/123918814",
+    "salary": {
+      "from": 140000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на Unity от 2-х лет. Глубокое знание языка программирования <highlighttext>C#</highlighttext>, опыта работы с паттернами проектирования. ",
+    "employer": "НМФ Нейротех"
+  },
+  {
+    "title": "Разработчик C# (middle)",
+    "link": "https://hh.ru/vacancy/118281585",
+    "salary": {
+      "from": 80000,
+      "to": 115000,
+      "currency": "RUR"
+    },
+    "description": null,
+    "employer": "Интегрикс"
+  },
+  {
+    "title": "Программист С#",
+    "link": "https://hh.ru/vacancy/123667909",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с WebAPI. Опыт работы с Avalonia UI или WPF. <highlighttext>C#</highlighttext> - свежие проекты на .net core 5/6, часть...",
+    "employer": "Интернет агентство ASAP"
+  },
+  {
+    "title": "Программист/разработчик RPA (стажер/junior)",
+    "link": "https://hh.ru/vacancy/123583685",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Высшее/ Среднее профессиональное образование. Навыки программирования на языках программирования (vb.net, <highlighttext>C#</highlighttext>, java, python, c++, vb и пр.). Знание основных принципов...",
+    "employer": "ЦТР НЕКСТ"
+  },
+  {
+    "title": "Фулстек мидл-разработчик (C#, .NET Framework)",
+    "link": "https://hh.ru/vacancy/124024770",
+    "salary": {
+      "from": 120000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенные знания и опыт работы с <highlighttext>C#</highlighttext>, .NET Framework, .NET Core. - Опыт разработки frontend на JavaScript и React. - ",
+    "employer": "Спецгрузавтотранс"
+  },
+  {
+    "title": "Программист MS SQL, C#, Delphi",
+    "link": "https://hh.ru/vacancy/123455848",
+    "salary": {
+      "from": 250000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "Отличное знание любого ООП компилируемого языка программирования - <highlighttext>C#</highlighttext>,C++, Java и т.п. Желательно знание delphi, но обязательна готовность изучить...",
+    "employer": "Карвиль"
+  },
+  {
+    "title": "Разработчик Python в IT-компанию Productlab.pro (Удаленно)",
+    "link": "https://hh.ru/vacancy/123863268",
+    "salary": {
+      "from": 25000,
+      "to": 50000,
+      "currency": "RUR"
+    },
+    "description": "Ты должен знать: ️ React (Базовые корректировки на основе примеров). Ты подойдешь, если: ️ Любишь предлагать крутые идеи. Не знаешь ответственности. ",
+    "employer": "Натфуллин Рушан Рустемович"
+  },
+  {
+    "title": "Junior C# разработчик (Desktop/API/Mobile)",
+    "link": "https://hh.ru/vacancy/121094979",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Знание <highlighttext>C#</highlighttext> и .NET Framework 4.8+ (особенно LINQ). Навыки работы с SQL и понимание принципов СУБД. ",
+    "employer": "STOMODOMO GROUP"
+  },
+  {
+    "title": "Мобильный разработчик C# MAUI",
+    "link": "https://hh.ru/vacancy/123918843",
+    "salary": {
+      "from": 140000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Отличное владение языком программирования <highlighttext>C#</highlighttext> и фреймворком .NET. Опыт разработки кросс-платформенных мобильных приложений с использованием MAUI. Хорошее понимание принципов...",
+    "employer": "НМФ Нейротех"
+  },
+  {
+    "title": "Инженер-программист",
+    "link": "https://hh.ru/vacancy/123021783",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "Знание ASP.NET Core/Web API. Язык программирования <highlighttext>C#</highlighttext>. Опыт работы с БД (PostgreSQL). Понимание и применение на практике различных шаблонов...",
+    "employer": "МПК"
+  },
+  {
+    "title": "Разработчик C#",
+    "link": "https://hh.ru/vacancy/121329314",
+    "salary": {
+      "from": 0,
+      "to": 195400,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы программистом / разработчиком <highlighttext>C#</highlighttext> от года. ASP.NET; SSRS, знания <highlighttext>C#</highlighttext> + MS SQL. Понимание принципов ООП. Знание .NET <highlighttext>C#</highlighttext>...",
+    "employer": "ИН ХОУМ"
+  },
+  {
+    "title": "Разработчик/Программист C#",
+    "link": "https://hh.ru/vacancy/123739897",
+    "salary": {
+      "from": 0,
+      "to": 400000,
+      "currency": "RUR"
+    },
+    "description": "Опыт в разработке от 3-х лет, высшее техническое или математическое образование. Уверенное знание <highlighttext>C#</highlighttext>, NET Core, асинхронного программирования, опыт...",
+    "employer": "SmartyHR"
+  },
+  {
+    "title": "Инженер-программист",
+    "link": "https://hh.ru/vacancy/123990477",
+    "salary": {
+      "from": 52000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Образование: высшее, среднее специальное. Профессиональные знания, навыки: знание баз данных, программирование на языке <highlighttext>C#</highlighttext>.",
+    "employer": "ВМП АВИТЕК"
+  },
+  {
+    "title": "Разработчик C#/ .NET",
+    "link": "https://hh.ru/vacancy/120911419",
+    "salary": {
+      "from": 0,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Высшее техническое образование. Знание языка <highlighttext>C#</highlighttext> и серверной технологии ASP.NET Core. Опыт разработки web-приложений. Знание Entity Framework Core и...",
+    "employer": "Russian Robotics"
+  },
+  {
+    "title": "Ведущий разработчик .NET/C#",
+    "link": "https://hh.ru/vacancy/121491425",
+    "salary": {
+      "from": 300000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенные знания <highlighttext>C#</highlighttext> и платформы .NET Core (2.2, 5.0+). Опыт разработки микросервисов. Уверенные знания MSSQL. ",
+    "employer": "Мэйджор Терминал"
+  },
+  {
+    "title": "Тестировщик-автоматизатор",
+    "link": "https://hh.ru/vacancy/124003470",
+    "salary": {
+      "from": 50000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Базовые знания <highlighttext>C#</highlighttext>. Знание HTML. Базовые знания Playwright. Желание учиться и развиваться в области тестирования. Внимательность к деталям и аналитический...",
+    "employer": "Школа Дела"
+  },
+  {
+    "title": "Middle+ Fullstack-разработчик (.NET/Angular) в команду WebPMS",
+    "link": "https://hh.ru/vacancy/123846845",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки <highlighttext>C#</highlighttext> от 4х лет. Опыт работы с web-технологиями. Знание принципов ООП, умение использовать их в...",
+    "employer": "TravelLine"
+  },
+  {
+    "title": "Full Stack Senior Software Developer - Старший разработчик программного обеспечения полного цикла",
+    "link": "https://hh.ru/vacancy/123395344",
+    "salary": {
+      "from": 3000,
+      "to": 4500,
+      "currency": "USD"
+    },
+    "description": "3+ years of experience in commercial software development with Microsoft .NET: Core 6, Framework 4.8, WinForms, WPF. ",
+    "employer": "Infosec With Experience"
+  },
+  {
+    "title": "Инженер-программист",
+    "link": "https://hh.ru/vacancy/123880688",
+    "salary": {
+      "from": 70000,
+      "to": 90000,
+      "currency": "RUR"
+    },
+    "description": "Навыки работы с технической документацией. Опыт работы или желание изучать MS SQL, PostreSQL, <highlighttext>C#</highlighttext>, asp net.core, angular, javascript, html, css.",
+    "employer": "Магнитогорский металлургический комбинат"
+  },
+  {
+    "title": "C# разработчик / инженер сопровождения ПО",
+    "link": "https://hh.ru/vacancy/123319642",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенное знание <highlighttext>C#</highlighttext>. Готовность быть на связи в течение всего рабочего дня и быстро подключаться к решению задач сопровождения. ",
+    "employer": "Проектно-производственная компания ИноксДрайв"
+  },
+  {
+    "title": "Разработчик C# Unity 3D (VR)",
+    "link": "https://hh.ru/vacancy/123846133",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR"
+    },
+    "description": "Наличие реализованных проектов на Unity. Знание <highlighttext>C#</highlighttext>, ООП, структур данных, и базовых алгоритмов. Знания и опыт работы с Unity от...",
+    "employer": "Д-Проджект"
+  },
+  {
+    "title": "C# разработчик приложения для автоматизации обработки деталей на лазерных станках",
+    "link": "https://hh.ru/vacancy/123140108",
+    "salary": {
+      "from": 100000,
+      "to": 170000,
+      "currency": "RUR"
+    },
+    "description": "Вычислительные алгоритмы: <highlighttext>C#</highlighttext>/C++. Высшее техническое образование или обучение на последних курсах. Знание <highlighttext>C#</highlighttext>. Понимание и применение принципов ООП. ",
+    "employer": "Ледас"
+  },
+  {
+    "title": "Программист",
+    "link": "https://hh.ru/vacancy/123096307",
+    "salary": {
+      "from": 170000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание dotNet (net 4.x, Core): Знание и умение применять паттерны проектирования и разработки. Знания языка SQL (T-SQL, PgSQL...",
+    "employer": "СП Диджитал"
+  },
+  {
+    "title": "Senior C# developer",
+    "link": "https://hh.ru/vacancy/122629865",
+    "salary": {
+      "from": 4500,
+      "to": 5500,
+      "currency": "EUR"
+    },
+    "description": "5+ years of <highlighttext>C#</highlighttext> development experience at Senior or Lead roles. Experience with .NET Core and message brokers (RabbitMQ...",
+    "employer": "Hi, Rockits!"
+  },
+  {
+    "title": "Программист",
+    "link": "https://hh.ru/vacancy/122989827",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт программирования на Python, <highlighttext>С#</highlighttext>, T-SQL не менее 3-х лет. Понимание принципов ООП и опыт использования паттернов проектирования. ",
+    "employer": "Розан"
+  },
+  {
+    "title": "RPA-разработчик",
+    "link": "https://hh.ru/vacancy/124028537",
+    "salary": {
+      "from": 130000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опты работы с RPA-платформами. Опыт работы с BI-системами. Знание Docker, Kubernetes. Сертификация по RPA. Работа с Excel, VBA...",
+    "employer": "M-docs"
+  },
+  {
+    "title": "Ученик С#-разработчик",
+    "link": "https://hh.ru/vacancy/123761740",
+    "salary": {
+      "from": 40230,
+      "to": 75000,
+      "currency": "RUR"
+    },
+    "description": null,
+    "employer": "Дунайс"
+  },
+  {
+    "title": "Программист-стажер",
+    "link": "https://hh.ru/vacancy/123506154",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUR"
+    },
+    "description": "Базовые знания <highlighttext>C#</highlighttext>, SQL. Понимание принципов ООП. Желание учиться и развиваться в сфере разработки. Умение работать в команде. ",
+    "employer": "Eidos (ООО Эйдос)"
+  },
+  {
+    "title": "Инженер-программист",
+    "link": "https://hh.ru/vacancy/123929530",
+    "salary": {
+      "from": 30000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "PHP, SQL, jаvаsсriрt, jQuery, AJAX, HTML, CSS, <highlighttext>С#</highlighttext>, Python. Рассматриваем соискателей без опыта, так же рассмотрим студентов последних курсов профильных...",
+    "employer": "Автономное учреждение Удмуртской Республики Региональный Центр Оценки Качества Образования"
+  },
+  {
+    "title": "Программист-разработчик",
+    "link": "https://hh.ru/vacancy/93490171",
+    "salary": {
+      "from": 70000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Задачи не простые, но интересные. Специалист в нашей команде обогатится знаниями из областей математики, механики, физики и др. - ",
+    "employer": "НПП ТИК"
+  },
+  {
+    "title": "Программист C# (Middle)",
+    "link": "https://hh.ru/vacancy/121896356",
+    "salary": {
+      "from": 58000,
+      "to": 97000,
+      "currency": "RUR"
+    },
+    "description": ".NET Framework 4.5+. .NET Core 2.0+. <highlighttext>C#</highlighttext>. ASP.NET/ASP.NET Core (webservices backend). MySQL + EntityFramework/EntityFramework...",
+    "employer": "ПРОГРАММНЫЙ ЦЕНТР"
+  },
+  {
+    "title": "Программист C/С++",
+    "link": "https://hh.ru/vacancy/123875801",
+    "salary": {
+      "from": 200000,
+      "to": 270000,
+      "currency": "RUR"
+    },
+    "description": "...цифровыми электронными устройствами, базовые знания одного или нескольких скриптовых языков (<highlighttext>C#</highlighttext>, Jscript, JavaScript, Python). Навыки разработки многопоточных и кроссплатформенных приложений. ",
+    "employer": "НЭПТ"
+  },
+  {
+    "title": "Middle T-SQL программист.",
+    "link": "https://hh.ru/vacancy/114811554",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Плюсом будет опыт программирования на языках <highlighttext>C#</highlighttext>, VB .NET, VBA и/или Delphi, Python, а также навыки разработки OLAP-кубов...",
+    "employer": "АПТЕКИ ВАША № 1"
+  },
+  {
+    "title": "Junior С# разработчик",
+    "link": "https://hh.ru/vacancy/123641197",
+    "salary": {
+      "from": 90000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы в системном администрировании (настройка сетей). Умение эффективно взаимодействовать в команде. Вашим преимуществом будет: Понимание основных сетевых протоколов (HTTP...",
+    "employer": "СОФИ И ПАРТНЕРЫ"
+  },
+  {
+    "title": "Программист С# (WPF)",
+    "link": "https://hh.ru/vacancy/121022909",
+    "salary": {
+      "from": 200000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки на <highlighttext>C#</highlighttext> – уверенное владение языком, понимание принципов написания чистого и структурированного кода. Работа с WPF – умение создавать удобные...",
+    "employer": "Кадровый центр Алекс персонал"
+  },
+  {
+    "title": "Unity-разработчик",
+    "link": "https://hh.ru/vacancy/122988256",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы на Unity не менее 3 лет. Опыт работы с <highlighttext>C#</highlighttext> и другими языками программирования. Опыт разработки Networking/Multiplayer...",
+    "employer": "Wild Forest (ИП Корнилов Сергей Владимирович)"
+  },
+  {
+    "title": "Программист Senior C# (.NET Core)",
+    "link": "https://hh.ru/vacancy/123799789",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы более 6 лет. Уверенные знания .NET и <highlighttext>С#</highlighttext> (на них весь бекэнд). Хорошие знания алгоритмов и структур данных. ",
+    "employer": "Енисей-1"
+  },
+  {
+    "title": "Программист",
+    "link": "https://hh.ru/vacancy/123900496",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание языка С как преимущество (либо С++, <highlighttext>С#</highlighttext>). Опыт программирования контроллеров и процессоров встраиваемых систем ARM,TMS,STM 32, Cortex...",
+    "employer": "Саратовский электроприборостроительный завод им. Серго Орджоникидзе"
+  },
+  {
+    "title": "Преподаватель по программированию для ФСП",
+    "link": "https://hh.ru/vacancy/123878129",
+    "salary": {
+      "from": 2500,
+      "to": 3000,
+      "currency": "RUR"
+    },
+    "description": "Опыт использования языков программирования (Python, <highlighttext>C#</highlighttext>, С++). Быть готовым работать с обучаемыми выше среднего уровня знаний. Саморазвитие. Изучения практик др.школ. ",
+    "employer": "Иди. Учись"
+  },
+  {
+    "title": "Программист",
+    "link": "https://hh.ru/vacancy/123455738",
+    "salary": {
+      "from": 80000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с серверной частью приложений на любом из языков (JS, Python, PHP, <highlighttext>C#</highlighttext> или другие). - Опыт работы с UI...",
+    "employer": "Центр защиты информации Север"
+  },
+  {
+    "title": "Инженер-программист",
+    "link": "https://hh.ru/vacancy/123145869",
+    "salary": {
+      "from": 140000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Образование высшее – техническое. Знание английского языка – технический уровень. Знание языков С/<highlighttext>С#</highlighttext>. Опыт работы с многопоточными приложениями. Знание интерфейсов связи...",
+    "employer": "ОПТОСИСТЕМЫ"
+  },
+  {
+    "title": "Программист на C++ (Калининград)",
+    "link": "https://hh.ru/vacancy/123005034",
+    "salary": {
+      "from": 60000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Приветствуются также мотивированные студенты БФУ и выпускники. Отличное знание C++. Желательно свободное владение английским языком. Опыт коммерческой разработки не требуется. ",
+    "employer": "FelenaSoft Company Ltd."
+  },
+  {
+    "title": "QA Fullstack C#",
+    "link": "https://hh.ru/vacancy/123904673",
+    "salary": {
+      "from": 0,
+      "to": 350000,
+      "currency": "RUR"
+    },
+    "description": "Технологии: - 2-4 года опыта в QA, включая более 2 лет автоматизации на <highlighttext>C#</highlighttext>. - Опыт работы с SQL, REST, системой...",
+    "employer": "Selecty"
+  },
+  {
+    "title": "Unity Developer (Middle+) в игровой стартап",
+    "link": "https://hh.ru/vacancy/123997233",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Обязательные: Отличное знание и уверенное применение <highlighttext>C#</highlighttext>. Глубокое понимание движка Unity и его основных концепций (сцены, префабы, компоненты, анимация, UI). ",
+    "employer": "Дэстэн Партнерс"
+  },
+  {
+    "title": "Full-stack Developer (React / .net, C#)",
+    "link": "https://hh.ru/vacancy/123738305",
+    "salary": {
+      "from": 250000,
+      "to": 270000,
+      "currency": "RUR"
+    },
+    "description": "Знание архитектуры и принципов построения Web приложений. - Уверенные знания <highlighttext>C#</highlighttext>, HTML, CSS , JavaScript. - Опыт работы с <highlighttext>C#</highlighttext>, React, СУБД PostgreSQL...",
+    "employer": "Научно-исследовательский институт транспорта нефти и нефтепродуктов Транснефть"
+  },
+  {
+    "title": "SQL-разработчик",
+    "link": "https://hh.ru/vacancy/123233135",
+    "salary": {
+      "from": 150000,
+      "to": 180000,
+      "currency": "RUR"
+    },
+    "description": "Будет плюсом. Опыт работы с <highlighttext>C#</highlighttext>/VB.NET, Windows.Forms, DevExpress. Опыт работы с ADO.NET , JSON, XML, XSLT, CSS, HTML. ",
+    "employer": "Dex"
+  },
+  {
+    "title": "Программист С++",
+    "link": "https://hh.ru/vacancy/121931535",
+    "salary": {
+      "from": 270000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с Make\\CMake. Дополнительное знание любого из языков разработки - <highlighttext>C#</highlighttext>/Delphi/Python/GoLang/Ruby. Оптимизация производительности приложений/БД.",
+    "employer": "Кластерные технологии Софтпоинт"
+  },
+  {
+    "title": "XML, XSLT-программист",
+    "link": "https://hh.ru/vacancy/120211890",
+    "salary": {
+      "from": 35800,
+      "to": 50800,
+      "currency": "RUR"
+    },
+    "description": "XSLT, XPath, XML, XSD, HTML, CSS. Будет плюсом: знание JavaScript, <highlighttext>C#</highlighttext>, Git и принципов ООП. Имеешь законченное или неоконченное высшее...",
+    "employer": "ПРОГРАММНЫЙ ЦЕНТР"
+  },
+  {
+    "title": "Инженер-программист (прикладное ПО)",
+    "link": "https://hh.ru/vacancy/123897012",
+    "salary": {
+      "from": 90000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Высшее образование (информационные технологии, программная инженерия или смежных областях). Уверенные навыки программирования на языках <highlighttext>С#</highlighttext>, Java, Python, C++. ",
+    "employer": "Финко"
+  },
+  {
+    "title": "C#/.NET-разработчик",
+    "link": "https://hh.ru/vacancy/122530801",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Умение программировать на <highlighttext>C#</highlighttext>. Знание реляционных баз данных (SQL). Знание Python приветствуется.",
+    "employer": "Модерн Гласс"
   }
 ]
