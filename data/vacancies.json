@@ -4398,5 +4398,2205 @@
     },
     "description": "Умение программировать на <highlighttext>C#</highlighttext>. Знание реляционных баз данных (SQL). Знание Python приветствуется.",
     "employer": "Модерн Гласс"
+  },
+  {
+    "title": "Trainee/Intern/Junior Python backend developer",
+    "link": "https://hh.ru/vacancy/126927559",
+    "salary": {
+      "from": 20000,
+      "to": 40000,
+      "currency": "RUR"
+    },
+    "description": "Для этого мы ищем начинающего, сообразительного, шустрого, амбициозного интерна-джуна питониста. Опыт в коммерческой разработке не требуется – важнее навык быстро...",
+    "employer": "Рекруто"
+  },
+  {
+    "title": "Junior Python Developer",
+    "link": "https://hh.ru/vacancy/126828407",
+    "salary": {
+      "from": 90000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Понимание <highlighttext>Python</highlighttext> 3: ООП, типы данных, функции, менеджеры контекста. Базовый опыт работы с Django Framework (модели, представления, маршрутизация). ",
+    "employer": "AppEvent"
+  },
+  {
+    "title": "Разработчик Python",
+    "link": "https://hh.ru/vacancy/124408556",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUR"
+    },
+    "description": "Инициативность в поиске решения задач. Опыт разработки на языке <highlighttext>Python</highlighttext> с фреймворком Django. Понимание принципов ООП и SOLID. ",
+    "employer": "Первая IT-компания"
+  },
+  {
+    "title": "Программист Python junior",
+    "link": "https://hh.ru/vacancy/126716662",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "<highlighttext>Python</highlighttext> (asyncio, aiohttp, Tornado). Навыки работы с Linux (командная строка, API). Хорошее знание паттернов проектирования, структур данных и классических алгоритмов. ",
+    "employer": "CDNvideo (ООО СДН-видео)"
+  },
+  {
+    "title": "Разработчик",
+    "link": "https://hh.ru/vacancy/126927560",
+    "salary": {
+      "from": 20000,
+      "to": 40000,
+      "currency": "RUR"
+    },
+    "description": "Для этого мы ищем начинающего, сообразительного, шустрого, амбициозного интерна-джуна питониста. Опыт в коммерческой разработке не требуется – важнее навык быстро...",
+    "employer": "Рекруто"
+  },
+  {
+    "title": "Разработчик Python",
+    "link": "https://hh.ru/vacancy/80736556",
+    "salary": {
+      "from": 30000,
+      "to": 80000,
+      "currency": "RUR"
+    },
+    "description": "Опыт проектирования, поддержки и разработки серверных компонентов на <highlighttext>Python</highlighttext>. Знание Microsoft SQL server и PostgreSql. Опыт работы с Git. ",
+    "employer": "Электронная медицина"
+  },
+  {
+    "title": "Python Developer",
+    "link": "https://hh.ru/vacancy/126793698",
+    "salary": {
+      "from": 210000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "2–4 года как <highlighttext>Python</highlighttext> Developer с ML-бэкграундом / Data Engineer. Уверенное владение <highlighttext>Python</highlighttext>, Pandas, SQL. Опыт с FastAPI (REST...",
+    "employer": "Технопарк"
+  },
+  {
+    "title": "Backend-разработчик (Python)",
+    "link": "https://hh.ru/vacancy/126383123",
+    "salary": {
+      "from": 150000,
+      "to": 180000,
+      "currency": "RUR"
+    },
+    "description": "Что нужно уметь, знать, какими навыками обладать: Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с aiohttp / fastapi. ",
+    "employer": "РАНТЕЛ"
+  },
+  {
+    "title": "Middle+ / Senior Backend Developer (Python + SQL)",
+    "link": "https://hh.ru/vacancy/124463631",
+    "salary": {
+      "from": 250000,
+      "to": 350000,
+      "currency": "RUR"
+    },
+    "description": "Написание качественного кода и тестов к нему. Необходимый стек: <highlighttext>Python</highlighttext> (asyncio), чистый SQL (не ORM), FastAPI (весь функционал), микросервисная архитектура...",
+    "employer": "e-Comet"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/126853352",
+    "salary": {
+      "from": 30000,
+      "to": 100000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное знание <highlighttext>Python</highlighttext> и опыт системной автоматизации. Опыт работы с ADB и понимание архитектуры Android (на уровне разработчика или тестировщика). ",
+    "employer": "Тарасевич и партнеры"
+  },
+  {
+    "title": "Python backend developer (в офис)",
+    "link": "https://hh.ru/vacancy/123841965",
+    "salary": {
+      "from": 180000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "...microservice) на <highlighttext>Python</highlighttext> от 2 лет, высшее образование. Уверенное знание: MSSQL, PostgreSQL (сложные запросы + аналитика), Clickhouse, <highlighttext>Python</highlighttext>, Git. ",
+    "employer": "Akvilon"
+  },
+  {
+    "title": "Программист-разработчик Python",
+    "link": "https://hh.ru/vacancy/126398114",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2-х лет. Инженерно-техническое образование. Знание SQL и ORM. Опыт работы с СУБД...",
+    "employer": "Красное & Белое, розничная сеть"
+  },
+  {
+    "title": "Ведущий разработчик-эксперт Python/Postgres",
+    "link": "https://hh.ru/vacancy/126856476",
+    "salary": {
+      "from": 350000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт проектирования и реализации программных систем. Экспертный уровень программирования на <highlighttext>Python</highlighttext>. Глубокое понимание работы реляционных БД (PostgreSQL). Продвинутый пользователь Linux. ",
+    "employer": "СИГНАЛТЕК"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/126625242",
+    "salary": {
+      "from": 0,
+      "to": 90000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы от 6 месяцев коммерческой разработки. Опыт работы с MySQL. Умение структурно мыслить, а также разбивать проект на подзадачи. ",
+    "employer": "amoCRM Global"
+  },
+  {
+    "title": "Python Backend Developer (CRM-проект)",
+    "link": "https://hh.ru/vacancy/126295411",
+    "salary": {
+      "from": 140000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Ключевые навыки: Будет плюсом. Опыт в проектировании и оптимизации баз данных (PostgreSQL). Знание библиотеки Pyrogram (разработка Telegram-ботов и сервисов). ",
+    "employer": "Тропихина Елена"
+  },
+  {
+    "title": "Программист Python",
+    "link": "https://hh.ru/vacancy/121288554",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Опыт проектирования, поддержки и разработки серверных компонентов на <highlighttext>Python</highlighttext>. Опыт работы с Git. Опыт системного администрирования: развертывание и настройка ОС...",
+    "employer": "Электронная медицина"
+  },
+  {
+    "title": "Backend разработчик (Django, FastAPI, Python)",
+    "link": "https://hh.ru/vacancy/126922085",
+    "salary": {
+      "from": 150000,
+      "to": 170000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное владение <highlighttext>Python</highlighttext> 3. Опыт разработки REST API, знание протоколов HTTP, WebSocket. Отличное знание Django (Django REST Framework). ",
+    "employer": "A SWISS GROUP"
+  },
+  {
+    "title": "Fullstack-разработчик",
+    "link": "https://hh.ru/vacancy/126345553",
+    "salary": {
+      "from": 50000,
+      "to": 60000,
+      "currency": "RUR"
+    },
+    "description": "Знание и понимание основ <highlighttext>Python</highlighttext> 3.8+ (синтаксис, структуры данных, функции, ООП). Опыт работы с одним из популярных веб...",
+    "employer": "Технотроникс"
+  },
+  {
+    "title": "Data Engineer",
+    "link": "https://hh.ru/vacancy/126889628",
+    "salary": {
+      "from": 200000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Языки программирования: <highlighttext>Python</highlighttext>, SQL (обязательно). - Базы данных: опыт работы с реляционными (PostgreSQL, MS SQL), колоночными (ClickHouse) и нереляционными (MongoDB, Redis...",
+    "employer": "Grand Line"
+  },
+  {
+    "title": "Backend-разработчик",
+    "link": "https://hh.ru/vacancy/126764049",
+    "salary": {
+      "from": 235000,
+      "to": 260000,
+      "currency": "RUR"
+    },
+    "description": "У тебя есть опыт работы с высоконагруженными системами. Глубоко понимаешь backend-архитектуру и REST. Можно расти до эксперта или архитектора...",
+    "employer": "Леусова Екатерина Сергеевна"
+  },
+  {
+    "title": "Senior Python разработчик",
+    "link": "https://hh.ru/vacancy/126673354",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Мы ищем опытного Senior <highlighttext>Python</highlighttext> разработчика, который уверенно чувствует себя в асинхронных сервисах, работает с бинарными данными (биты/байты, hex...",
+    "employer": "СмартБрик"
+  },
+  {
+    "title": "Senior Software Python Developer",
+    "link": "https://hh.ru/vacancy/126676759",
+    "salary": {
+      "from": 5000,
+      "to": 7000,
+      "currency": "USD"
+    },
+    "description": "At least 7 years of proven experience as a <highlighttext>Python</highlighttext> Developer, preferably in a senior or lead role. ",
+    "employer": "Trading Integral Solutions"
+  },
+  {
+    "title": "Middle Backend Python developer",
+    "link": "https://hh.ru/vacancy/126528466",
+    "salary": {
+      "from": 180000,
+      "to": 230000,
+      "currency": "RUR"
+    },
+    "description": "Уверенно: PostgreSQL (схемы, индексы, партиции), Redis (кеш/локи/лимиты), асинхронный <highlighttext>Python</highlighttext>. Привычка к тестам, логам, метрикам; ответственность за результат и...",
+    "employer": "Гуддело"
+  },
+  {
+    "title": "Team Lead (Python Fullstack / Computer Vision)",
+    "link": "https://hh.ru/vacancy/126750829",
+    "salary": {
+      "from": 0,
+      "to": 500000,
+      "currency": "RUR"
+    },
+    "description": "...работы от 3 до 6 лет в соответствующей области. Умение эффективно управлять командой и проектами. Отличные навыки программирования на <highlighttext>Python</highlighttext>.",
+    "employer": "ДВ СМАРТ"
+  },
+  {
+    "title": "Backend‑разработчик Python (микросервисная архитектура)",
+    "link": "https://hh.ru/vacancy/126778556",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Минимум 3 года коммерческого опыта разработки на <highlighttext>Python</highlighttext>. Практический опыт декомпозиции монолитов и разработки микросервисов. Знание английского языка на уровне...",
+    "employer": "НДК"
+  },
+  {
+    "title": "Junior Python developer (в офис)",
+    "link": "https://hh.ru/vacancy/123972095",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "...<highlighttext>python</highlighttext>, супер если уже есть коммерческий опыт написания в реальных продуктах. Уже окончил(а) ВУЗ. 4. Какие курсы по <highlighttext>python</highlighttext>...",
+    "employer": "Hyper AdTech"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/126795541",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Имеет уверенный опыт работы с <highlighttext>Python</highlighttext> 3+. Является экспертом в области парсинга веб-данных и знаком с его подводными...",
+    "employer": "SocialJet"
+  },
+  {
+    "title": "Разработчик Python",
+    "link": "https://hh.ru/vacancy/125612761",
+    "salary": {
+      "from": 0,
+      "to": 180000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное владение <highlighttext>Python</highlighttext>3 от 2 лет, знание его окружения (стандартные библиотеки и библиотеки на базе фреймворков). Понимание базовых принципов...",
+    "employer": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/126161855",
+    "salary": {
+      "from": 1800,
+      "to": 2500,
+      "currency": "USD"
+    },
+    "description": "Технологии проекта: - <highlighttext>Python</highlighttext> 3.8. - Flask, AsyncIO (FastAPI в перспективе). Уверенное знание языка <highlighttext>Python</highlighttext>. Опыт работы с Flask, SQLAlchemy. ",
+    "employer": "Копылова Татьяна Алексеевна"
+  },
+  {
+    "title": "ML-инженер/ML Engineer",
+    "link": "https://hh.ru/vacancy/126744522",
+    "salary": {
+      "from": 70000,
+      "to": 110000,
+      "currency": "RUR"
+    },
+    "description": "Знание основ Docker, venv, conda, систем версионирования. Базовые навыки <highlighttext>Python</highlighttext> (автоматизация, API, bash-скрипты). Желательно — понимание RAG-архитектуры и инструментов...",
+    "employer": "Чекашкин Александр Валерьевич"
+  },
+  {
+    "title": "Разработчик Java/Python (ТГ боты)",
+    "link": "https://hh.ru/vacancy/125230464",
+    "salary": {
+      "from": 70000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки Telegram-ботов на одном из языков (<highlighttext>Python</highlighttext> / Java) или в no-code платформах (например, n8n). - ",
+    "employer": "Бонакер Александр Александрович"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/126769686",
+    "salary": {
+      "from": 0,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Самостоятельный, опытный программист. Уверенно владеешь <highlighttext>Python</highlighttext>\\Flask. Доп. технологии: docker, clickhouse, mysql, redis. Можешь разобраться в чужом коде. ",
+    "employer": "Этажи Федеральная компания"
+  },
+  {
+    "title": "Аналитик данных (WB)",
+    "link": "https://hh.ru/vacancy/126101754",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с АРІ. Базовые знания SQL (SELECT, JOIN, агрегации). DataLens. <highlighttext>Python</highlighttext> (pandas, requests, gspread). Понимание принципов ETL. Аналитическое мышление. ",
+    "employer": "Старт"
+  },
+  {
+    "title": "Python-аналитик В ОФИС г. Киров",
+    "link": "https://hh.ru/vacancy/126839222",
+    "salary": {
+      "from": 70000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с <highlighttext>Python</highlighttext> от 1 года (не учебные проекты). Уверенные навыки работы с API и базами данных. ",
+    "employer": "MEGA JEANS (ИП Удалова Сабина Фетаховна)"
+  },
+  {
+    "title": "DevOps/Backend Engineer",
+    "link": "https://hh.ru/vacancy/126788749",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание методик решения \"проблем\" и опыт работы с белыми списками операторов, DPI. Уверенное администрирование Linux. Опыт работы с Docker/Kubernetes...",
+    "employer": "Васильев Артем Александрович"
+  },
+  {
+    "title": "Senior Python Developer",
+    "link": "https://hh.ru/vacancy/126814223",
+    "salary": {
+      "from": 0,
+      "to": 380000,
+      "currency": "RUR"
+    },
+    "description": "Опыт от 7 лет коммерческой разработки на <highlighttext>Python</highlighttext>/FastAPI. Глубокие знания фреймворка FastAPI и паттернов проектирования (Repository, Service, Unit of...",
+    "employer": "АйТиКвик"
+  },
+  {
+    "title": "Computer Vision Researcher (Junior+)",
+    "link": "https://hh.ru/vacancy/126316458",
+    "salary": {
+      "from": 150000,
+      "to": 230000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное знание основ CV, DL и классического ML. Уверенное знание <highlighttext>Python</highlighttext> и основных ML/DL библиотек. Уверенное знание Linux, git...",
+    "employer": "Tevian (ООО Технологии видеоанализа)"
+  },
+  {
+    "title": "Разработчик Python (Middle)",
+    "link": "https://hh.ru/vacancy/126123465",
+    "salary": {
+      "from": 110000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Хорошие знания <highlighttext>Python</highlighttext> 3.6+, Django, DRF. Навык работы с Git. Умение разбираться в чужом коде. Опыт разработки в...",
+    "employer": "Единая Информационная Система ЖКХ"
+  },
+  {
+    "title": "Разработчик Python (middle+)",
+    "link": "https://hh.ru/vacancy/122690606",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное владение <highlighttext>Python</highlighttext> 3. Опыт работы от 2х лет с одним из фреймворков, в том числе в production: Django...",
+    "employer": "НИИ МАСШТАБ"
+  },
+  {
+    "title": "Программист-разработчик (робототехника, нейросеть, машинное зрение)",
+    "link": "https://hh.ru/vacancy/126918677",
+    "salary": {
+      "from": 140000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенное знание С,С++, <highlighttext>Python</highlighttext> . Желательно опыт работы с микроконтроллерами :ESP, STM. Опыт в RND -сфере. Понимание работы периферии ( UART...",
+    "employer": "Специальное Программное Обеспечение"
+  },
+  {
+    "title": "MLOps junior+",
+    "link": "https://hh.ru/vacancy/126936203",
+    "salary": {
+      "from": 120000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Опыт настройки CI/CD (GitLab CI, ArgoCD и др.). Владение <highlighttext>Python</highlighttext> (желательно опыт с Pandas, Scikit-learn, NumPy). ",
+    "employer": "ИК СИБИНТЕК"
+  },
+  {
+    "title": "Аналитик в AI сервис поиска (Search, LLM, Embeddings, Data Science, SaaS)",
+    "link": "https://hh.ru/vacancy/126797122",
+    "salary": {
+      "from": 120000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Высшее техническое или математическое образование. Уверенные навыки <highlighttext>Python</highlighttext> и SQL. Понимание базовых принципов ML и работы API. Умение ясно и...",
+    "employer": "Any"
+  },
+  {
+    "title": "Разработчик баз данных",
+    "link": "https://hh.ru/vacancy/126767273",
+    "salary": {
+      "from": 160000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с PostgreSQL. Опыт работы с PL/pgSQL. Понимание устройств реляционных СУБД. Разработка схем данных. Знание <highlighttext>Python</highlighttext>. Администрирование БД. ",
+    "employer": "IT-парк Питерский мостик"
+  },
+  {
+    "title": "Аналитик данных",
+    "link": "https://hh.ru/vacancy/126912759",
+    "salary": {
+      "from": 0,
+      "to": 130000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное владение SQL, опыт написания запросов и работы с MySQL. Знание <highlighttext>Python</highlighttext> на уровне анализа данных и автоматизации простых задач. ",
+    "employer": "Акваарт"
+  },
+  {
+    "title": "Middle Python Developer",
+    "link": "https://hh.ru/vacancy/126305716",
+    "salary": {
+      "from": 0,
+      "to": 4500,
+      "currency": "USD"
+    },
+    "description": "Техническое образование или эквивалентный практический опыт. Хороший опыт разработки на <highlighttext>Python</highlighttext>. Опыт разработки веб-приложений. Не понаслышке знать про asyncio. ",
+    "employer": "Филиал компании Лист Ренталс Лимитед"
+  },
+  {
+    "title": "Backend разработчик Middle+ (Python/Django + SRE)",
+    "link": "https://hh.ru/vacancy/126763408",
+    "salary": {
+      "from": 0,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 4-х+ лет с Django от 2+ года обязателен. Опыт практической работы: Celery...",
+    "employer": "ДомИнтернет"
+  },
+  {
+    "title": "DevOps/Backend Engineer",
+    "link": "https://hh.ru/vacancy/126788750",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание методик решения \"проблем\" и опыт работы с белыми списками операторов, DPI. Уверенное администрирование Linux. Опыт работы с Docker/Kubernetes...",
+    "employer": "Васильев Артем Александрович"
+  },
+  {
+    "title": "Backend-разработчик",
+    "link": "https://hh.ru/vacancy/126700522",
+    "salary": {
+      "from": 100000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное пользование <highlighttext>Python</highlighttext>, веб-фреймворками (FastAPI/Django), PostgreSQL, Redis. Иметь понимание о REST API, базах данных, Docker, CI/CD, написании...",
+    "employer": "Гвардиум"
+  },
+  {
+    "title": "Support Engineer/Инженер поддержки",
+    "link": "https://hh.ru/vacancy/126788242",
+    "salary": {
+      "from": 90000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенные знания СУБД (Clickhouse/PostgreSQL) и умение писать SQL-запросы. Базовые навыки <highlighttext>Python</highlighttext> - ты можешь прочитать код и разобраться в...",
+    "employer": "DataGo!"
+  },
+  {
+    "title": "Data Engineer (relocate)",
+    "link": "https://hh.ru/vacancy/126133196",
+    "salary": {
+      "from": 0,
+      "to": 6000,
+      "currency": "USD"
+    },
+    "description": "Опыт работы с SQL (сложные запросы + оптимизация). Опыт работы с <highlighttext>Python</highlighttext> (общие принципы + библиотеки для DE). ",
+    "employer": "Инвиста"
+  },
+  {
+    "title": "Инженер технической поддержки",
+    "link": "https://hh.ru/vacancy/126523207",
+    "salary": {
+      "from": 0,
+      "to": 270000,
+      "currency": "RUR"
+    },
+    "description": "умение установить и настроить приложение в консоли Linux. — знание основ языка запросов SQL (опыт работы с любой СУБД будет плюсом). — ",
+    "employer": "Латера"
+  },
+  {
+    "title": "Data Engineer/ ML Engineer",
+    "link": "https://hh.ru/vacancy/126793682",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "3+ лет в роли Data Scientist / ML Engineer. Уверенное владение <highlighttext>Python</highlighttext>, pandas, scikit-learn, CatBoost/LightGBM. Опыт построения ETL...",
+    "employer": "Технопарк"
+  },
+  {
+    "title": "DevOps/Backend Engineer",
+    "link": "https://hh.ru/vacancy/126788751",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание методик решения \"проблем\" и опыт работы с белыми списками операторов, DPI. Уверенное администрирование Linux. Опыт работы с Docker/Kubernetes...",
+    "employer": "Васильев Артем Александрович"
+  },
+  {
+    "title": "Python developer",
+    "link": "https://hh.ru/vacancy/126705655",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
+    "employer": "Тензор"
+  },
+  {
+    "title": "Senior Quantitative Developer",
+    "link": "https://hh.ru/vacancy/126435464",
+    "salary": {
+      "from": 600000,
+      "to": 850000,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки real-time систем на <highlighttext>Python</highlighttext> (asyncio). Опыт с финансовыми API, ретраями, идемпотентностью. Знание PostgreSQL, ClickHouse, уверенный SQL. ",
+    "employer": "ArtVolkov.ru"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/126665362",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2–3 лет, с акцентом на backendразработку. Глубокие знания асинхронного программирования (asyncio, aiohttp) и...",
+    "employer": "Акцент"
+  },
+  {
+    "title": "Middle Data Scientist/Аналитик по исследованию данных",
+    "link": "https://hh.ru/vacancy/126512975",
+    "salary": {
+      "from": 300000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт в области анализа данных и машинного обучения (от 2 лет). Знание <highlighttext>Python</highlighttext> (в т.ч. хорошее знание pandas) и...",
+    "employer": "ГАЛА-ЦЕНТР"
+  },
+  {
+    "title": "Python Developer (Cybersecurity Core Team)",
+    "link": "https://hh.ru/vacancy/125175359",
+    "salary": {
+      "from": 0,
+      "to": 350000,
+      "currency": "RUR"
+    },
+    "description": "Опыт продуктовой разработки на <highlighttext>Python</highlighttext>3 от 3 лет. Уверенное пользование Linux (systemd, iptables, bash). Опыт работы Docker (сборка образов...",
+    "employer": "METASCAN"
+  },
+  {
+    "title": "Data Engineer",
+    "link": "https://hh.ru/vacancy/126877937",
+    "salary": {
+      "from": 170000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Базовые знания SQL. Навыки программирования на Java или <highlighttext>Python</highlighttext>. Знакомство с Apache Spark и Hadoop. Понимание принципов построения DWH и...",
+    "employer": "Дартс рекрутинг сервисез"
+  },
+  {
+    "title": "Data Scientist / Программист моделей машинного обучения",
+    "link": "https://hh.ru/vacancy/126570908",
+    "salary": {
+      "from": 0,
+      "to": 280000,
+      "currency": "RUR"
+    },
+    "description": "Навыки работы со стандартным стеком: <highlighttext>python</highlighttext>, numpy, pandas, pytorch, scikit-learn и т.д. — Наличие в портфолио готовых моделей машинного...",
+    "employer": "Баззула Рекламные Технологии"
+  },
+  {
+    "title": "Начинающий Fullstack-разработчик",
+    "link": "https://hh.ru/vacancy/126717049",
+    "salary": {
+      "from": 50000,
+      "to": 100000,
+      "currency": "RUR"
+    },
+    "description": "Backend: Java 21, Spring Framework, PostgreSQL, Docker, Git. Возможно использование <highlighttext>Python</highlighttext> вместо Java/Spring. Frontend: HTML, CSS, Javascript. ",
+    "employer": "Ситисенс"
+  },
+  {
+    "title": "Senior ML Engineer",
+    "link": "https://hh.ru/vacancy/126901936",
+    "salary": {
+      "from": 0,
+      "to": 500000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с Deep Learning моделями. Опыт разработки на <highlighttext>Python</highlighttext> более 3-х лет. Опыт работы ML инженером в рекомендательных...",
+    "employer": "ТехВилл"
+  },
+  {
+    "title": "Системный аналитик (ученик)",
+    "link": "https://hh.ru/vacancy/126943342",
+    "salary": {
+      "from": 70000,
+      "to": 80000,
+      "currency": "RUR"
+    },
+    "description": "Обязательное требование — законченное высшее или среднее специальное образование. Для тех, у кого нет навыков в этой сфере. Для тех, у...",
+    "employer": "Aston"
+  },
+  {
+    "title": "Разработчик информационных систем на Oracle/Python",
+    "link": "https://hh.ru/vacancy/122535294",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Знание SQL, Oracle PL/SQL, <highlighttext>Python</highlighttext>, HTML, CSS, JS, TeX, Zope, AJAX, JSON, XML. Знание средств командной разработки и ведения...",
+    "employer": "АНОВО МОСКОВСКИЙ МЕЖДУНАРОДНЫЙ УНИВЕРСИТЕТ"
+  },
+  {
+    "title": "Разработчик внутренней системы автоматизации",
+    "link": "https://hh.ru/vacancy/126868422",
+    "salary": {
+      "from": 90000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Высшее/среднее специальное образование, преимущественно в техническом направлении, готовы также рассматривать выпускников ВУЗов. Навыки в администрировании PostgreSQL. Опыт в web...",
+    "employer": "МТС"
+  },
+  {
+    "title": "Разработчик Python",
+    "link": "https://hh.ru/vacancy/115878755",
+    "salary": {
+      "from": 180000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенные знания <highlighttext>Python</highlighttext> 3+ и опыт с одним или несколькими из следующих фреймворков: Flask, Django, FastAPI. Опыт решения оптимизационных...",
+    "employer": "Компания Группа компаний Реми"
+  },
+  {
+    "title": "Senior Python-разработчик (ЭДО)",
+    "link": "https://hh.ru/vacancy/126672727",
+    "salary": {
+      "from": 350000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Пишешь на <highlighttext>Python</highlighttext> 4+ лет. Знаком с Django, FastAPI, protobuf. Работаешь с PostgreSQL, Redis/Memcached. (плюс) имеешь опыт с...",
+    "employer": "Первый ОФД"
+  },
+  {
+    "title": "Преподаватель образовательных курсов для детей (Python)",
+    "link": "https://hh.ru/vacancy/126920642",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Компетенция: грамотная устная и письменная речь, адаптивность к “новизне”. Технологии: знание <highlighttext>Python</highlighttext> на глубинном уровне. Техника: для занятий потребуется ноутбук...",
+    "employer": "Алгоритмика"
+  },
+  {
+    "title": "Начинающий аналитик Power BI",
+    "link": "https://hh.ru/vacancy/124931169",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Умение решать нестандартные задачи. Высокая ответственность и стрессоустойчивость. SQL(у нас в основном T-SQL),PowerBI, <highlighttext>Python</highlighttext> будет преимуществом.",
+    "employer": "Элитный Сочи"
+  },
+  {
+    "title": "Специалист по машинному зрению (Computer Vision Engineer)",
+    "link": "https://hh.ru/vacancy/126830633",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки в области Computer Vision / Deep Learning от 2 лет. Уверенное владение <highlighttext>Python</highlighttext> и основными библиотеками (OpenCV, NumPy...",
+    "employer": "Военно-патриотический тренировочный центр ВОЕВОДА"
+  },
+  {
+    "title": "Data Science кредитный скоринг",
+    "link": "https://hh.ru/vacancy/126937530",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт построения скоринговых и fraud-моделей. Уверенное владение <highlighttext>Python</highlighttext> (pandas, scikit-learn, XGBoost, LightGBM, CatBoost). Опыт работы с SQL и...",
+    "employer": "Манюхина Анна"
+  },
+  {
+    "title": "Middle-разработчик чат-ботов (Senler)",
+    "link": "https://hh.ru/vacancy/125964829",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки чат-ботов (желательно на Senler или аналогичных конструкторах). Уверенное владение <highlighttext>Python</highlighttext> / Node.js (или другим бэкенд-языком для интеграций). ",
+    "employer": "EzoVision"
+  },
+  {
+    "title": "Программист Python, Linux",
+    "link": "https://hh.ru/vacancy/125958833",
+    "salary": {
+      "from": 77000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Высшее техническое образование в области разработки компьютерного программного обеспечения. Знание языка программирования <highlighttext>Python</highlighttext>, Linux. Опыт написания программ с графическим интерфейсом...",
+    "employer": "Технопром"
+  },
+  {
+    "title": "ML/Data/LLM AI Engineer (MLOps, Data Science, Research)",
+    "link": "https://hh.ru/vacancy/126518133",
+    "salary": {
+      "from": 180000,
+      "to": 350000,
+      "currency": "RUR"
+    },
+    "description": "Коммерческий опыт в сфере ML и Data Science - от 3 лет. Глубокое знание <highlighttext>Python</highlighttext> и его Data/ML экосистемы (Pandas...",
+    "employer": "Риверстарт"
+  },
+  {
+    "title": "Python developer",
+    "link": "https://hh.ru/vacancy/126713881",
+    "salary": {
+      "from": 200000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
+    "employer": "Тензор"
+  },
+  {
+    "title": "Python developer",
+    "link": "https://hh.ru/vacancy/126712228",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
+    "employer": "Тензор"
+  },
+  {
+    "title": "Marketing / Product Data Analyst",
+    "link": "https://hh.ru/vacancy/126741362",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Владение любым диалектом SQL и опыт работы с СУБД. Владение <highlighttext>Python</highlighttext> для анализа данных. Опыт работы со средствами визуализации данных...",
+    "employer": "Livornica"
+  },
+  {
+    "title": "Преподаватель IT в детскую онлайн школу по Minecraft, Roblox, Scratch, Python, Swift, iOS, нейросети",
+    "link": "https://hh.ru/vacancy/126147386",
+    "salary": {
+      "from": 20000,
+      "to": 80000,
+      "currency": "RUR"
+    },
+    "description": "CODDY - лидер в России по технологическому образованию детей. - Компьютерная грамотность на MAC. - Английский и китайский языки. - Дизайн (Adobe Photoshop, Illustrator...",
+    "employer": "Международная школа программирования CODDY"
+  },
+  {
+    "title": "AI Prompt & Portfolio Engineer Intern",
+    "link": "https://hh.ru/vacancy/126791452",
+    "salary": {
+      "from": 0,
+      "to": 120000,
+      "currency": "RUR"
+    },
+    "description": "Минимальный опыт разработки (базовый <highlighttext>Python</highlighttext>/JS или иной язык на уровне запуска примеров), чтобы понимать, что делает сгенерированный код. ",
+    "employer": "Quadcode"
+  },
+  {
+    "title": "Data Analyst / Product Analyst",
+    "link": "https://hh.ru/vacancy/126789629",
+    "salary": {
+      "from": 0,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Желание выдвигать новые гипотезы и прорабатывать обоснования для их реализации. Системность мышления и отсутствие страха “размытых задач”. <highlighttext>Python</highlighttext>, Tableau (или...",
+    "employer": "Софтвайс"
+  },
+  {
+    "title": "DevOps-инженер",
+    "link": "https://hh.ru/vacancy/126670860",
+    "salary": {
+      "from": 0,
+      "to": 400000,
+      "currency": "RUR"
+    },
+    "description": "Понимание информационной безопасности. Опыт разработки на C#. Опыт работы с криптовалютными сервисами. ImmuDB. Ansible. Kubernetes. HAProxy. Навыки в C++, <highlighttext>Python</highlighttext>...",
+    "employer": "Проммайнер"
+  },
+  {
+    "title": "Junior DevOps engineer",
+    "link": "https://hh.ru/vacancy/120851177",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Желательно иметь навыки: Gitlab.",
+    "employer": "Бизнес Технологии"
+  },
+  {
+    "title": "Преподаватель образовательных курсов для детей (Python)",
+    "link": "https://hh.ru/vacancy/126920640",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Компетенция: грамотная устная и письменная речь, адаптивность к “новизне”. Технологии: знание <highlighttext>Python</highlighttext> на глубинном уровне. Техника: для занятий потребуется ноутбук...",
+    "employer": "Алгоритмика"
+  },
+  {
+    "title": "ML Engineer / Инженер машинного обучения",
+    "link": "https://hh.ru/vacancy/121278053",
+    "salary": {
+      "from": 130000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Понимание принципов работы с моделями машинного обучения и их применения в реальных проектах. Владение языком программирования <highlighttext>Python</highlighttext>. Знание архитектур LLM...",
+    "employer": "Радиофид"
+  },
+  {
+    "title": "Разработчик нейросетевых алгоритмов / Специалист по машинному обучению (LLM, CV, RL)",
+    "link": "https://hh.ru/vacancy/126260454",
+    "salary": {
+      "from": 80000,
+      "to": 140000,
+      "currency": "RUR"
+    },
+    "description": "Свободное владение <highlighttext>Python</highlighttext> (ООП, паттерны проектирования, структуры данных). Опыт работы с фреймворками для глубокого обучения, в первую очередь с PyTorch. ",
+    "employer": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем"
+  },
+  {
+    "title": "Преподаватель образовательных курсов для детей (Python)",
+    "link": "https://hh.ru/vacancy/126920639",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Компетенция: грамотная устная и письменная речь, адаптивность к “новизне”. Технологии: знание <highlighttext>Python</highlighttext> на глубинном уровне. Техника: для занятий потребуется ноутбук...",
+    "employer": "Алгоритмика"
+  },
+  {
+    "title": "Специалист по аналитике данных (сервисные процессы)",
+    "link": "https://hh.ru/vacancy/126880559",
+    "salary": {
+      "from": 69000,
+      "to": 76000,
+      "currency": "RUR"
+    },
+    "description": "Базовые знания языка DAX (Power BI) для создания мер. Навыки программирования (<highlighttext>Python</highlighttext>, R) для автоматизации задач или расширенного анализа. ",
+    "employer": "Сеть магазинов цифровой и бытовой техники DNS"
+  },
+  {
+    "title": "Программист",
+    "link": "https://hh.ru/vacancy/126891588",
+    "salary": {
+      "from": 70000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Умение работать в команде и эффективно взаимодействовать с коллегами. Желательно знание других языков программирования (например, <highlighttext>Python</highlighttext>, Java, C#).",
+    "employer": "Теплокон"
+  },
+  {
+    "title": "AI-разработчик / Cпециалист по искусственному интеллекту",
+    "link": "https://hh.ru/vacancy/126514878",
+    "salary": {
+      "from": 110000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Базовые навыки работы с контейнерами Docker, CI/CD. Желательно знание <highlighttext>Python</highlighttext> или JavaScript. Опыт с LangChain\\LangGraph\\LangFlow или с...",
+    "employer": "1С-КПД"
+  },
+  {
+    "title": "Аналитик в AI сервис поиска (Search, LLM, Embeddings, Data Science, SaaS)",
+    "link": "https://hh.ru/vacancy/126797123",
+    "salary": {
+      "from": 120000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Высшее техническое или математическое образование. Уверенные навыки <highlighttext>Python</highlighttext> и SQL. Понимание базовых принципов ML и работы API. Умение ясно и...",
+    "employer": "Any"
+  },
+  {
+    "title": "Аналитик данных",
+    "link": "https://hh.ru/vacancy/126701633",
+    "salary": {
+      "from": 100000,
+      "to": 100000,
+      "currency": "RUR"
+    },
+    "description": "Google Apps Script (GAS): понимание принципов работы и базовые навыки написания скриптов для автоматизации задач. <highlighttext>Python</highlighttext>: базовые навыки программирования, навыки...",
+    "employer": "WellFoods"
+  },
+  {
+    "title": "Junior Дата-аналитик",
+    "link": "https://hh.ru/vacancy/126477803",
+    "salary": {
+      "from": 0,
+      "to": 75000,
+      "currency": "RUR"
+    },
+    "description": "Опыт написания и поддержания ETL-процессов (<highlighttext>Python</highlighttext>, Airflow). Опыт разработки парсеров для веб-ресурсов с использованием <highlighttext>python</highlighttext>-библиотек (requests, selenium...",
+    "employer": "СПб ГКУ Центр Архивных Документов"
+  },
+  {
+    "title": "ИИ-автоматизатор / ИИ-инженер (n8n/Make)",
+    "link": "https://hh.ru/vacancy/126844353",
+    "salary": {
+      "from": 100000,
+      "to": 160000,
+      "currency": "RUR"
+    },
+    "description": "Навыки программирования (JavaScript/TypeScript/<highlighttext>Python</highlighttext>) и опыт кастомных узлов/скриптов. Практика с LLM-стеком: embeddings, векторные БД, RAG, tools/functions. ",
+    "employer": "Реактор"
+  },
+  {
+    "title": "Python разработчик, middle",
+    "link": "https://hh.ru/vacancy/125399950",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы разработчиком на языках <highlighttext>Python</highlighttext> (от двух лет). Знакомство с Golang (желательно). Опыт работы с Docker и системами контейнеризации. ",
+    "employer": "Центр интеллектуальной безопасности"
+  },
+  {
+    "title": "Data Engineer",
+    "link": "https://hh.ru/vacancy/126702957",
+    "salary": {
+      "from": 300000,
+      "to": 340000,
+      "currency": "RUR"
+    },
+    "description": "Знание подходов к разработке, документированию, тестированию ХД. Знание методологий разработки (Agile, Scrum, Waterfall). Опыт работы с dbt, <highlighttext>python</highlighttext>, airflow будет...",
+    "employer": "Дата Дженерейшн"
+  },
+  {
+    "title": "Fullstack-разработчик",
+    "link": "https://hh.ru/vacancy/126102682",
+    "salary": {
+      "from": 287500,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки с Cursor + GitHub + AI. Опыт разработки Telegram Mini App и комплексных высоконагруженных приложений. Знание и умение...",
+    "employer": "PRIME FOODS"
+  },
+  {
+    "title": "Аналитик данных",
+    "link": "https://hh.ru/vacancy/126871489",
+    "salary": {
+      "from": 0,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "<highlighttext>Python</highlighttext>: уверенное владение, знание ООП и функционального программирования, умение работать со стеком ошибок. Pandas, Matplotlib, Jupyter: уверенное владение инструментами для...",
+    "employer": "СБЕР"
+  },
+  {
+    "title": "Robotics Software Engineer",
+    "link": "https://hh.ru/vacancy/125892193",
+    "salary": {
+      "from": 0,
+      "to": 450000,
+      "currency": "RUR"
+    },
+    "description": "Твёрдое знание основ управления (MPC). Опыт коммерческой разработки на C++ и <highlighttext>Python</highlighttext> от 3 лет, из них не менее 1...",
+    "employer": "ТехВилл"
+  },
+  {
+    "title": "Cтарший Python разработчик",
+    "link": "https://hh.ru/vacancy/125106926",
+    "salary": {
+      "from": 0,
+      "to": 210000,
+      "currency": "RUR"
+    },
+    "description": "Будет плюсом опыт работы с JavaScript, CSS, jQuery. Продвинутые знания <highlighttext>Python</highlighttext>, включая Flask. Опыт работы с Linux, Docker, GitLab CI...",
+    "employer": "ГК Innostage"
+  },
+  {
+    "title": "Аналитик данных (Офис)",
+    "link": "https://hh.ru/vacancy/126309522",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "...вычисляемые поля, макросы, стандартные формулы и их комбинации. Аналитический склад ума. Базовые знания SQL/<highlighttext>Python</highlighttext>/Google app script будут преимуществом.",
+    "employer": "SweetJerry"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128122937",
+    "salary": {
+      "from": 0,
+      "to": 230000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с Apache Airflow (понимание принципов работы системы, написание DAG, знание операторов). Знание <highlighttext>Python</highlighttext> на уровне, достаточном для написания...",
+    "employer": "Вычислительные решения"
+  },
+  {
+    "title": "Python Backend разработчик",
+    "link": "https://hh.ru/vacancy/128361348",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с <highlighttext>Python</highlighttext> и фреймворками Django и Django Rest. Понимание принципов разработки RESTful API. Опыт работы с Yandex Cloud...",
+    "employer": "ЭкспрессДеньги"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/127729458",
+    "salary": {
+      "from": 0,
+      "to": 240000,
+      "currency": "RUR"
+    },
+    "description": "Язык и фреймворки: уверенное владение <highlighttext>Python</highlighttext>, Django 5.0+, опыт работы с FastAPI. Базы данных: глубокие знания PostgreSQL (оптимизация...",
+    "employer": "Фабрика Решений"
+  },
+  {
+    "title": "Педагог-контрактник по курсам Python",
+    "link": "https://hh.ru/vacancy/127570727",
+    "salary": {
+      "from": 800,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт проведения занятий по <highlighttext>Python</highlighttext>. Умение заинтересовать слушателя. Умение найти подход к каждому человеку.",
+    "employer": "Центр Автоматизации Бизнеса Форвард"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/127724917",
+    "salary": {
+      "from": 180000,
+      "to": 220000,
+      "currency": "RUR"
+    },
+    "description": "От тебя ждём уверенного владения <highlighttext>Python</highlighttext> и асинхронностью (async/await, aiohttp, очереди задач, конкурентность), опыта с aiogram, аккуратного отношения к...",
+    "employer": "Савчук Егор Сергеевич"
+  },
+  {
+    "title": "Python разработчик",
+    "link": "https://hh.ru/vacancy/127921066",
+    "salary": {
+      "from": 120000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знаешь операционные системы семейства Linux;- Имеешь опыт работы с framework: FastAPI/ Flask /Djang o (Сейча с FastAPI);- Понимаешь принципы многопоточных...",
+    "employer": "СмартБрик"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128528788",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Основной фокус работы направлен на обработку и анализ структурированных и неструктурированных данных: текстовый контент, табличные данные, работа с реляционными БД. ",
+    "employer": "Агентство Монител"
+  },
+  {
+    "title": "Senior Python-разработчик",
+    "link": "https://hh.ru/vacancy/125154982",
+    "salary": {
+      "from": 500000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт на аналогичной позиции не менее 5 лет. Опыт работы с Linux на экспертном уровне. Опыт проектирования архитектуры программного обеспечения. ",
+    "employer": "AERODISK"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128073686",
+    "salary": {
+      "from": 130000,
+      "to": 140000,
+      "currency": "RUR"
+    },
+    "description": "Опыт написания автотестов и желания поддерживать качество. Опыт работы с асинхронным <highlighttext>Python</highlighttext> (asyncio/FastAPI background tasks/async‑драйверы) — без фанатизма...",
+    "employer": "Денвик"
+  },
+  {
+    "title": "Специалист SQL/Python по медико-профилактическому направлению",
+    "link": "https://hh.ru/vacancy/128238148",
+    "salary": {
+      "from": 0,
+      "to": 115000,
+      "currency": "RUR"
+    },
+    "description": "Знание основ статистики и методов анализа данных. Опыт работы в эпидемиологии. Знание SQL или <highlighttext>Python</highlighttext> на базовом уровне.",
+    "employer": "ФГБУ ЦСП ФМБА России"
+  },
+  {
+    "title": "Преподаватель Python",
+    "link": "https://hh.ru/vacancy/128513264",
+    "salary": {
+      "from": 0,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Ты прекрасно разбираешься в одном из направлений. Ты без проблем объясняешь материал. Ты настроен на развитие в сфере образования и...",
+    "employer": "Центр программирования Coding Skills"
+  },
+  {
+    "title": "Ведущий Python-разработчик",
+    "link": "https://hh.ru/vacancy/127543619",
+    "salary": {
+      "from": 350000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт на аналогичной позиции не менее 5 лет. Опыт работы с Linux на экспертном уровне. Опыт проектирования архитектуры программного обеспечения. ",
+    "employer": "AERODISK"
+  },
+  {
+    "title": "Data аналитик (python)",
+    "link": "https://hh.ru/vacancy/128542299",
+    "salary": {
+      "from": 150000,
+      "to": 260000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное владение <highlighttext>python</highlighttext> и стремление писать чистый, читаемый код. Опыт работы с pandas и NumPy. Внимание к деталям, аккуратность, системный...",
+    "employer": "International quantitative trading company"
+  },
+  {
+    "title": "Backend Developer (Python)",
+    "link": "https://hh.ru/vacancy/128095873",
+    "salary": {
+      "from": 0,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки backend на <highlighttext>Python</highlighttext> от 2 лет. Знание веб-фреймворков (Django, FastAPI или аналогичные). Знание асинхронного программирования (asyncio). ",
+    "employer": "САПРО"
+  },
+  {
+    "title": "Преподаватель программирования Python",
+    "link": "https://hh.ru/vacancy/126072334",
+    "salary": {
+      "from": 90000,
+      "to": 130000,
+      "currency": "RUR"
+    },
+    "description": "Любовь к детям. Желание развиваться в области преподавания. Умение поддерживать позитивный климат в классе. Базовые знания <highlighttext>Python</highlighttext> (переменные, условный оператор...",
+    "employer": "АНО ДО Московская школа программистов"
+  },
+  {
+    "title": "Backend-разработчик (Python)",
+    "link": "https://hh.ru/vacancy/128534233",
+    "salary": {
+      "from": 130000,
+      "to": 130000,
+      "currency": "RUR"
+    },
+    "description": "Мы ищем проактивного коллегу со знанием <highlighttext>Python</highlighttext> и баз данных, а также готовностью работать с людьми из нетехнических областей. ",
+    "employer": "Европейский университет в Санкт-Петербурге"
+  },
+  {
+    "title": "Преподаватель программирования в онлайн-школу (Construct, Unity, Python Backend)",
+    "link": "https://hh.ru/vacancy/128357835",
+    "salary": {
+      "from": 60000,
+      "to": 90000,
+      "currency": "RUR"
+    },
+    "description": "Scratch&Roblox, <highlighttext>Python</highlighttext>, <highlighttext>Python</highlighttext> Backend, Unity, HTML + CSS + JavaScript, Construct, Компьютерная грамотность. 3д моделирование (Blender, SculptGL, CapCut...",
+    "employer": "EasyCode"
+  },
+  {
+    "title": "Python Developer (Middle+)",
+    "link": "https://hh.ru/vacancy/127914066",
+    "salary": {
+      "from": 180000,
+      "to": 230000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3 лет. Уверенные знания FastApi. Опыт работы с RabbitMQ и PostgreSQL. Понимание принципов микросервисной...",
+    "employer": "Фабрика Решений"
+  },
+  {
+    "title": "Middle Backend разработчик (Python)",
+    "link": "https://hh.ru/vacancy/127547656",
+    "salary": {
+      "from": 230000,
+      "to": 345000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное знание <highlighttext>Python</highlighttext> 3.8+ (middle). Понимание конкурентного и/или параллельного кода (asyncio, multiprocessing, multithreading). Опыт проектирования REST API. ",
+    "employer": "Tevian (ООО Технологии видеоанализа)"
+  },
+  {
+    "title": "Middle+ Python Backend Engineer",
+    "link": "https://hh.ru/vacancy/127801082",
+    "salary": {
+      "from": 220000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "3–5+ лет коммерческой разработки на <highlighttext>Python</highlighttext>. Уверенная работа с асинхронностью (asyncio, aiohttp/httpx, aiogram). Глубокое понимание FastAPI и...",
+    "employer": "Бабаян Денис Маркович"
+  },
+  {
+    "title": "Специалист технической поддержки (python)",
+    "link": "https://hh.ru/vacancy/127797633",
+    "salary": {
+      "from": 110000,
+      "to": 115000,
+      "currency": "RUR"
+    },
+    "description": "Знание ОС Linux (на уровне уверенного пользователя). Знание <highlighttext>python</highlighttext> на уровне junior (для написания скриптов). Способность и желание быстро изучать...",
+    "employer": "SPTLab"
+  },
+  {
+    "title": "Преподаватель IT в детскую онлайн школу по Minecraft, Python, C++, Scratch, Ai",
+    "link": "https://hh.ru/vacancy/128122757",
+    "salary": {
+      "from": 20000,
+      "to": 80000,
+      "currency": "RUR"
+    },
+    "description": "Компьютерная грамотность на MAC. - Английский и китайский языки. - Дизайн (Adobe Photoshop, Illustrator, Adobe Animate, After Effects). - 3D моделирование (Blender...",
+    "employer": "Международная школа программирования CODDY"
+  },
+  {
+    "title": "Python developer (Senior/Lead)",
+    "link": "https://hh.ru/vacancy/127794077",
+    "salary": {
+      "from": 250000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "<highlighttext>Python</highlighttext> - требуемый опыт работы с реальными проектами от 3-х лет. Опыт написания модульных тестов. Необходим опыт работы c СУБД. ",
+    "employer": "Digital Security"
+  },
+  {
+    "title": "Middle Python Developer",
+    "link": "https://hh.ru/vacancy/128514244",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Знание английского языка на уровне pre-intermediate и выше. Хорошее знакомство с процессами и методологиями гибкой разработки (Scrum). ",
+    "employer": "Шлыков Станислав Игоревич"
+  },
+  {
+    "title": "QA Automation Engineer (Python)",
+    "link": "https://hh.ru/vacancy/128539264",
+    "salary": {
+      "from": 0,
+      "to": 220000,
+      "currency": "RUR"
+    },
+    "description": "...качестве AQA (<highlighttext>python</highlighttext>). Опыт разработки системы авто-тестов (тестового фрэймворка) с использованием одного или нескольких языков программирования (предпочтительно <highlighttext>Python</highlighttext>) от...",
+    "employer": "Magenta Technology"
+  },
+  {
+    "title": "Backend-разработчик (Python / Django / Fastapi)",
+    "link": "https://hh.ru/vacancy/128097612",
+    "salary": {
+      "from": 160000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Опыт продуктовой разработки от 2,5 лет. Хорошие знания Django, Django Rest Framework, FastAPI. Знание SQL (Postgres). Опыт проектирования архитектуры...",
+    "employer": "Прайваси Тех"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/127643982",
+    "salary": {
+      "from": 0,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "5+ лет коммерческого опыта в разработке веб-приложений с использованием FastAPI / Django / Flask. - Глубокие знания <highlighttext>Python</highlighttext> Core и стандартных...",
+    "employer": "Affilyx (ООО Здоровье Онлайн)"
+  },
+  {
+    "title": "Fullstack-разработчик (Python и React.JS)",
+    "link": "https://hh.ru/vacancy/128485297",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенно владеете и имеете опыт с <highlighttext>Python</highlighttext>, Typescript, React.JS, SQL, Git. - Глубоко понимаете принципы работы современных веб-приложений. - ",
+    "employer": "Chad AI"
+  },
+  {
+    "title": "Python-разработчик (ML/CV)",
+    "link": "https://hh.ru/vacancy/127762814",
+    "salary": {
+      "from": 120000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Навыки работы с Webhooks. Навыки программирования на <highlighttext>Python</highlighttext>. Демонстрация собственных разработанных проектов на собеседовании. Опыт работы в государственных учреждениях является...",
+    "employer": "ГБУ МО УТНКР"
+  },
+  {
+    "title": "Senior Python QA Automation SDET (Israel)",
+    "link": "https://hh.ru/vacancy/128331615",
+    "salary": {
+      "from": 3500,
+      "to": 0,
+      "currency": "USD"
+    },
+    "description": "Must Have: Proven experience in QA Automation using <highlighttext>Python</highlighttext>. Strong knowledge of Linux systems and Docker. For Web Automation – experience...",
+    "employer": "V4Scale"
+  },
+  {
+    "title": "Senior/Middle+ Fullstack Developer (Python/Vue.js)",
+    "link": "https://hh.ru/vacancy/127926876",
+    "salary": {
+      "from": 180000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Веб-сервер: Опыт настройки Nginx. Опыт коммерческой разработки на <highlighttext>Python</highlighttext> и Flask от 4-х лет. Глубокое понимание Vue 3...",
+    "employer": "АТД Системы"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128247003",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Опыт разработки REST API. Понимание принципов асинхронного программирования (async/await). Опыт работы с реляционными БД (PostgreSQL/MySQL) и ORM (SQLAlchemy...",
+    "employer": "Реверслаб"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128037077",
+    "salary": {
+      "from": 180000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Linux на уровне уверенного пользователя (терминал, ssh). Уверенный Git. Опыт с <highlighttext>Python</highlighttext> 3+ лет. Отсутствие боязни заглянуть в соседний...",
+    "employer": "Wiren Board"
+  },
+  {
+    "title": "Fullstack-разработчик (Python, Django, Vue)",
+    "link": "https://hh.ru/vacancy/128311805",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Использование git должно быть естественным. Опыт <highlighttext>Python</highlighttext>/Django от пяти лет. Хорошее понимание реляционных субд (у нас PostrgeSQL). ",
+    "employer": "АТРАКС ТРЕЙД"
+  },
+  {
+    "title": "Fullstack-разработчик (Python и React.JS)",
+    "link": "https://hh.ru/vacancy/127538491",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенно владеете и имеете опыт с <highlighttext>Python</highlighttext>, Typescript, React.JS, SQL, Git. - Глубоко понимаете принципы работы современных веб-приложений. - ",
+    "employer": "Chad AI"
+  },
+  {
+    "title": "Python Backend разработчик (AI Telegram Chatbots)",
+    "link": "https://hh.ru/vacancy/127789306",
+    "salary": {
+      "from": 250000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с асинхронным программированием на <highlighttext>Python</highlighttext> (asyncio). Опыт работы с Telegram Bot API. Умение правильно использовать нейросети (и-или...",
+    "employer": "Половинко Константин Валерьевич"
+  },
+  {
+    "title": "Преподаватель Python в онлайн-школу программирования",
+    "link": "https://hh.ru/vacancy/128277607",
+    "salary": {
+      "from": 50000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание одного или нескольких языков программирования/ образование или опыт работы в IT. Готовность преподавать минимум 2 направления. Способность вдохновлять и...",
+    "employer": "IT школа Hello World"
+  },
+  {
+    "title": "Senior Python Developer",
+    "link": "https://hh.ru/vacancy/128284310",
+    "salary": {
+      "from": 0,
+      "to": 340000,
+      "currency": "RUR"
+    },
+    "description": "Web, Backend, <highlighttext>Python</highlighttext>. 6 и более лет. FastAPI, MessageQ, Tests. Свободный английский. От В2. Опыт с AI-агентами (ASR...",
+    "employer": "evrone.ru"
+  },
+  {
+    "title": "Junior / Pre-middle Python Developer",
+    "link": "https://hh.ru/vacancy/128514154",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUR"
+    },
+    "description": "Знание английского языка на уровне pre-intermediate и выше. Хорошее знакомство с процессами и методологиями гибкой разработки (Scrum). ",
+    "employer": "Шлыков Станислав Игоревич"
+  },
+  {
+    "title": "Senior Python Developer в Cybersecurity core team",
+    "link": "https://hh.ru/vacancy/127540709",
+    "salary": {
+      "from": 0,
+      "to": 400000,
+      "currency": "RUR"
+    },
+    "description": "Опыт продуктовой разработки на <highlighttext>Python</highlighttext>3. Опыт работы с Django, DRF. Опыт работы с Celery. Опыт работы с MySQL, Elasticsearch. ",
+    "employer": "METASCAN"
+  },
+  {
+    "title": "Преподаватель Python, Scratch в онлайн-школу программирования",
+    "link": "https://hh.ru/vacancy/128277608",
+    "salary": {
+      "from": 50000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Знание одного или нескольких языков программирования/ образование или опыт работы в IT. Готовность преподавать минимум 2 направления. Способность вдохновлять и...",
+    "employer": "IT школа Hello World"
+  },
+  {
+    "title": "Senior Python разработчик",
+    "link": "https://hh.ru/vacancy/127879731",
+    "salary": {
+      "from": 250000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Мы ищем опытного Senior <highlighttext>Python</highlighttext> разработчика, который уверенно чувствует себя в асинхронных сервисах, работает с бинарными данными (биты/байты, hex...",
+    "employer": "СмартБрик"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/127433763",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUR"
+    },
+    "description": "Ответственный, внимательный к деталям и умеешь работать в команде. Опыт с другими <highlighttext>Python</highlighttext>-фреймворками для веб-разработки. Навыки оптимизации и...",
+    "employer": "Фитбейс"
+  },
+  {
+    "title": "Middle Python developer (Django/FastAPI) AdTech (в офисе)",
+    "link": "https://hh.ru/vacancy/127670091",
+    "salary": {
+      "from": 170000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Понимание архитектуры бэкенда для веб-приложений (Node.js, <highlighttext>Python</highlighttext>). Понимание UX и UI, применяющихся для визуализации данных. (Таблицы, временные ряды, графики...",
+    "employer": "Hyper AdTech"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/126276942",
+    "salary": {
+      "from": 0,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Знание <highlighttext>Python</highlighttext> (библиотеки Pandas, Numpy). Опыт работы не менее 1 года в качестве Data Engineer / Data Analyst / ETL Developer. ",
+    "employer": "ИЦ АЙ-ТЕКО"
+  },
+  {
+    "title": "Python backend developer",
+    "link": "https://hh.ru/vacancy/127862909",
+    "salary": {
+      "from": 280000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "Хорошее знание <highlighttext>Python</highlighttext>3, опыт промышленной разработки от 3 лет. Опыт использования одного из фреймворков (Django, Flask, FastAPI). ",
+    "employer": "Ритейл-Процессинг"
+  },
+  {
+    "title": "Junior Python программист (DataMining)",
+    "link": "https://hh.ru/vacancy/128062531",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное использование <highlighttext>Python</highlighttext>. Знание базовых структур данных и алгоритмов, способность оценивать скорость работы алгоритмов. Умение работать с удаленными серверами через...",
+    "employer": "BRANDPOL"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/127865214",
+    "salary": {
+      "from": 140000,
+      "to": 160000,
+      "currency": "RUR"
+    },
+    "description": "Разбираться в документации интегрируемых технологий. Ищем разработчик на <highlighttext>python</highlighttext> с опытом работы не менее 3х лет. Требуемые навыки: Умение...",
+    "employer": "Мир"
+  },
+  {
+    "title": "Python-разработчик (Middle+/Senior)",
+    "link": "https://hh.ru/vacancy/127749004",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Строим схемы хранения данных в Postgres (OLTP) и настраиваем поисковые индексы в Elasticsearch. Навыки и знания, которые вам потребуются на...",
+    "employer": "30 БИТ"
+  },
+  {
+    "title": "Lead Python Engineer (Core & Architecture)",
+    "link": "https://hh.ru/vacancy/128506685",
+    "salary": {
+      "from": 300000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "6+ лет опыта в backend-разработке (<highlighttext>Python</highlighttext>/FastAPI) на высоконагруженных проектах. Архитектурное мышление, умение проектировать сложные системы «на вырост». ",
+    "employer": "Эйчар Рокет"
+  },
+  {
+    "title": "Python AQA Engineer (Нагрузочное тестирование)",
+    "link": "https://hh.ru/vacancy/128283072",
+    "salary": {
+      "from": 180000,
+      "to": 210000,
+      "currency": "RUR"
+    },
+    "description": "Опыт в автоматизации тестирования от 3-х лет. Уверенное владение <highlighttext>Python</highlighttext> для автоматизации тестирования. Знание библиотек: requests, flask (базовые знания...",
+    "employer": "Enjoypro"
+  },
+  {
+    "title": "Преподаватель IT дисциплин в Компьютерной Академии (С++, Python, Москва Сокол)",
+    "link": "https://hh.ru/vacancy/127772326",
+    "salary": {
+      "from": 40000,
+      "to": 120000,
+      "currency": "RUR"
+    },
+    "description": "Ответственность, пунктуальность, желание делиться знанием и опытом. Знание или опыт работы как минимум в одном из указанных выше направлений компьютерных...",
+    "employer": "Компьютерная академия TOP (Компьютерная Академия ТОП)"
+  },
+  {
+    "title": "Преподаватель программирования Python",
+    "link": "https://hh.ru/vacancy/127602816",
+    "salary": {
+      "from": 0,
+      "to": 90000,
+      "currency": "RUR"
+    },
+    "description": null,
+    "employer": "АНО ДО Московская школа программистов"
+  },
+  {
+    "title": "Разработчик Python (Django)",
+    "link": "https://hh.ru/vacancy/128013173",
+    "salary": {
+      "from": 0,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Уверенные знания <highlighttext>Python</highlighttext>, Django, DRF, PostgreSQL, Celery. Умение оптимизировать код и SQL запросы. Умение погружаться в бизнес-требования.",
+    "employer": "Shtab"
+  },
+  {
+    "title": "Senior Python Developer",
+    "link": "https://hh.ru/vacancy/127838982",
+    "salary": {
+      "from": 350000,
+      "to": 450000,
+      "currency": "RUR"
+    },
+    "description": "Отличное знание <highlighttext>Python</highlighttext> и опыт коммерческой-разработки. - Знание JavaScript(TypeScript) + React Знание верстки HTML, CSS, Flexbox, Grid, Sass/SCSS...",
+    "employer": "Деньги Вперед"
+  },
+  {
+    "title": "Python-разработчик (Junior)",
+    "link": "https://hh.ru/vacancy/127837488",
+    "salary": {
+      "from": 120000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Уверенное знание синтаксиса <highlighttext>Python</highlighttext>, базовых конструкций (переменные, типы данных, условия, циклы, функции). Понимание принципов и применение объектно-ориентированного программирования. ",
+    "employer": "Веза"
+  },
+  {
+    "title": "Инженер-программист (Python / API / нейросети)",
+    "link": "https://hh.ru/vacancy/127625605",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с JSON и <highlighttext>Python</highlighttext> от 1 года. Практический опыт интеграции сервисов через API (REST, GraphQL и т.д.). ",
+    "employer": "ПрофТех"
+  },
+  {
+    "title": "Python-разработчик (Браузерная автоматизация, Junior+/Middle)",
+    "link": "https://hh.ru/vacancy/127888236",
+    "salary": {
+      "from": 130000,
+      "to": 180000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 1 года. - Знание и опыт работы с фреймворками для автоматизации Selenium WebDriver (или Camoufox). - ",
+    "employer": "Инфосфера"
+  },
+  {
+    "title": "Программист Python (Junior)",
+    "link": "https://hh.ru/vacancy/127593136",
+    "salary": {
+      "from": 70000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Будет плюсом: Опыт работы с микросервисной архитектурой (API Gateway, отдельные сервисы). Знание асинхронного программирования в <highlighttext>Python</highlighttext> (async/await). ",
+    "employer": "Раздоров и Компания"
+  },
+  {
+    "title": "Ведущий Backend Разработчик Python\\Django",
+    "link": "https://hh.ru/vacancy/127623615",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "Имеет опыт от 5+ лет в роли Senior Backend Developer / Архитектора. Экспертиза в <highlighttext>Python</highlighttext> и микросервисах, понимание принципов других...",
+    "employer": "Подумай и Возьми"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128486108",
+    "salary": {
+      "from": 90000,
+      "to": 120000,
+      "currency": "RUR"
+    },
+    "description": "Опыт работы с <highlighttext>Python</highlighttext> не менее 1 года. Опыт работы с CMS Битрикс. Знание HTML, CSS, JavaScript. Опыт работы с...",
+    "employer": "Сеть магазинов полезного питания DFS"
+  },
+  {
+    "title": "Backend-разработчик Python",
+    "link": "https://hh.ru/vacancy/127941599",
+    "salary": {
+      "from": 120000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Имеете опыт backend-разработки на <highlighttext>Python</highlighttext> от 3 лет (коммерческий). Уверенно читаете техническую документацию на английском. Работали с асинхронными фреймворками...",
+    "employer": "Радист Онлайн"
+  },
+  {
+    "title": "Tech Lead / Руководитель команды разработки (Python)",
+    "link": "https://hh.ru/vacancy/128052544",
+    "salary": {
+      "from": 0,
+      "to": 400000,
+      "currency": "RUR"
+    },
+    "description": "Опыт продуктовой разработки на <highlighttext>Python</highlighttext>3. Опыт работы с Django, DRF. Опыт работы с Celery. Опыт работы с MySQL, Elasticsearch. ",
+    "employer": "METASCAN"
+  },
+  {
+    "title": "Преподаватель компьютерных курсов для взрослых (Python, MS SQL, Java, Unity, HTML & CSS), г. Колпино",
+    "link": "https://hh.ru/vacancy/128530541",
+    "salary": {
+      "from": 120000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Нам нужны специалисты широкого профиля IT (необязательно с педагогическим образованием)! Главное, чтобы специалист был абсолютным профи в своей области и...",
+    "employer": "Компьютерная академия TOP (Компьютерная Академия ТОП)"
+  },
+  {
+    "title": "Python-разработчик в экосистему Telegram-ботов",
+    "link": "https://hh.ru/vacancy/127462115",
+    "salary": {
+      "from": 70000,
+      "to": 70000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 1 года. Опыт создания Telegram-ботов с использование современных библиотек. Понимание принципов и опыт...",
+    "employer": "ЮРАЛС ПРО"
+  },
+  {
+    "title": "Python-разработчик (фитнес-клуб)",
+    "link": "https://hh.ru/vacancy/127957890",
+    "salary": {
+      "from": 80000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Что ты будешь делать: — Знание <highlighttext>Python</highlighttext> и базовых принципов веб-разработки. — Опыт работы (или учебных проектов) с Django или FastAPI. — ",
+    "employer": "Поколение"
+  },
+  {
+    "title": "Python разработчик (Software Engineer)",
+    "link": "https://hh.ru/vacancy/123054425",
+    "salary": {
+      "from": 0,
+      "to": 400000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное владение <highlighttext>Python</highlighttext> 3.11+. Опыт работы с FastAPI, SQLAlchemy, Docker, Git, Linux. Понимание архитектурных паттернов: CQRS, Saga, Event...",
+    "employer": "Консалт Плюс"
+  },
+  {
+    "title": "Senior Fullstack разработчик Python/Vue (гибрид МСК)",
+    "link": "https://hh.ru/vacancy/128160919",
+    "salary": {
+      "from": 300000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Стек технологий: Опыт коммерческой разработки на <highlighttext>Python</highlighttext>/Django от 5 лет. Уверенное понимание Vue.js (или готовность быстро погрузиться): вы должны...",
+    "employer": "Тх Решения"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128446691",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "3+ лет коммерческой разработки на <highlighttext>Python</highlighttext>. Django / FastAPI / Flask — уверенные навыки с одним из фреймворков. Отличное понимание архитектуры веб...",
+    "employer": "YLAB Development"
+  },
+  {
+    "title": "Senior/Lead Full-Stack (React Native + Python/DRF)",
+    "link": "https://hh.ru/vacancy/127491703",
+    "salary": {
+      "from": 250000,
+      "to": 300000,
+      "currency": "RUR"
+    },
+    "description": "5+ лет в разработке; 3+ года в React Native и 2+ года в <highlighttext>Python</highlighttext>/DRF (или эквивалентный...",
+    "employer": "SDP Market"
+  },
+  {
+    "title": "Backend разработчик/тестировщик Python (FastAPI)",
+    "link": "https://hh.ru/vacancy/128022344",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3-х лет. Глубокое знание FastAPI (dependency injection, middleware, lifespan events). Продвинутый уровень SQLAlchemy...",
+    "employer": "Базанихина Анастасия Владимировна"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128433930",
+    "salary": {
+      "from": 100000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с желанием мигрировать на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
+    "employer": "Тензор"
+  },
+  {
+    "title": "Python Developer (Fast API / FinTech Project)",
+    "link": "https://hh.ru/vacancy/127847625",
+    "salary": {
+      "from": 3000,
+      "to": 5000,
+      "currency": "USD"
+    },
+    "description": "Уверенный опыт работы с <highlighttext>Python</highlighttext> и фреймворком FastAPI. Опыт разработки и интеграции RESTful API. Знание реляционных БД (PostgreSQL/MySQL). ",
+    "employer": "Сальников Станислав Сергеевич"
+  },
+  {
+    "title": "Senior Python-разработчик",
+    "link": "https://hh.ru/vacancy/127382775",
+    "salary": {
+      "from": 250000,
+      "to": 450000,
+      "currency": "RUR"
+    },
+    "description": "Опыт от 7 лет. — Уверенно работает с <highlighttext>Python</highlighttext> и Django. — Знает SQL и умеет оптимизировать запросы. — Понимает принципы построения REST...",
+    "employer": "Агентство HRV"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128423864",
+    "salary": {
+      "from": 180000,
+      "to": 240000,
+      "currency": "RUR"
+    },
+    "description": "Будут плюсом: Docker, GitLab CI, OpenShift, Kubernetes. Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 4 лет. Владение хотя бы одним из...",
+    "employer": "Синьор Софт"
+  },
+  {
+    "title": "Python разработчик",
+    "link": "https://hh.ru/vacancy/127508230",
+    "salary": {
+      "from": 100000,
+      "to": 250000,
+      "currency": "RUR"
+    },
+    "description": "Официальный опыт коммерческой разработки от года ( который вы можете подтвердить). Уверенное программирование на <highlighttext>Python</highlighttext>. Желание решать сложные задачи. ",
+    "employer": "Тензор"
+  },
+  {
+    "title": "Backend-разработчик (Python)",
+    "link": "https://hh.ru/vacancy/128468781",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3 лет. Уверенное владение FastAPI и/или aiohttp, знание асинхронного программирования. Понимание клиент-серверной...",
+    "employer": "Крафттех"
+  },
+  {
+    "title": "Преподаватель в онлайн-школу (Construct, Python Backend, Unity)",
+    "link": "https://hh.ru/vacancy/128030419",
+    "salary": {
+      "from": 60000,
+      "to": 90000,
+      "currency": "RUR"
+    },
+    "description": "Есть опыт в преподавании ТРЕХ или БОЛЕЕ наших дисциплин: Scratch&Roblox, <highlighttext>Python</highlighttext>, <highlighttext>Python</highlighttext> Backend, Unity, HTML + CSS + JavaScript...",
+    "employer": "EasyCode"
+  },
+  {
+    "title": "Преподаватель в онлайн-школу (Construct, Python Backend, Unity)",
+    "link": "https://hh.ru/vacancy/128030421",
+    "salary": {
+      "from": 60000,
+      "to": 90000,
+      "currency": "RUR"
+    },
+    "description": "Есть опыт в преподавании ТРЕХ или БОЛЕЕ наших дисциплин: Scratch&Roblox, <highlighttext>Python</highlighttext>, <highlighttext>Python</highlighttext> Backend, Unity, HTML + CSS + JavaScript...",
+    "employer": "EasyCode"
+  },
+  {
+    "title": "Преподаватель IT дисциплин в Компьютерной Академии (С++, Python, г.Домодедово)",
+    "link": "https://hh.ru/vacancy/127867372",
+    "salary": {
+      "from": 40000,
+      "to": 90000,
+      "currency": "RUR"
+    },
+    "description": "Ответственность, пунктуальность, желание делиться знанием и опытом. Знание или опыт работы как минимум в одном из указанных выше направлений компьютерных...",
+    "employer": "Компьютерная академия TOP (Компьютерная Академия ТОП)"
+  },
+  {
+    "title": "Middle+ / Senior Backend Developer (Python + SQL)",
+    "link": "https://hh.ru/vacancy/124463631",
+    "salary": {
+      "from": 250000,
+      "to": 350000,
+      "currency": "RUR"
+    },
+    "description": "Написание качественного кода и тестов к нему. Необходимый стек: <highlighttext>Python</highlighttext> (asyncio), чистый SQL (не ORM), FastAPI (весь функционал), микросервисная архитектура...",
+    "employer": "e-Comet"
+  },
+  {
+    "title": "ML / AI Engineer (Python, Junior+, офис)",
+    "link": "https://hh.ru/vacancy/128148559",
+    "salary": {
+      "from": 70000,
+      "to": 100000,
+      "currency": "RUR"
+    },
+    "description": "<highlighttext>Python</highlighttext> 3.x, уверенный уровень. Опыт в ML/DL: PyTorch или TensorFlow. Понимание полного цикла: данные → модель → метрики → прод. ",
+    "employer": "Гуддело"
+  },
+  {
+    "title": "Fullstack разработчик (Python/Django + Node.js)",
+    "link": "https://hh.ru/vacancy/128140195",
+    "salary": {
+      "from": 200000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> + Django (3+ года). Знание Node.js и опыт работы с ним. Умение работать с...",
+    "employer": "ФАЙНДИЗАЙНГРУПП"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128376779",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Доменная логика устройства на <highlighttext>python</highlighttext>. Асинхронное программирование. Знание <highlighttext>Python</highlighttext>. Знание Linux. Способность к самостоятельной работе.",
+    "employer": "НПЦ Астра"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128375878",
+    "salary": {
+      "from": 0,
+      "to": 220000,
+      "currency": "RUR"
+    },
+    "description": "Опыт <highlighttext>python</highlighttext> разработки от 2 лет. Понимание микросервисной архитектуры. Знание шаблонов проектирования. Опыт работы c Docker, aiohttp (async frameworks). ",
+    "employer": "ИЦ АЙ-ТЕКО"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128001738",
+    "salary": {
+      "from": 80000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "От 1 года коммерческой разработки (не фриланс). Будет преимуществом: опыт работы в стартапах; опыт написания парсеров; опыт работы с ИИ. ",
+    "employer": "VERBA-group"
+  },
+  {
+    "title": "Senior Python разработчик",
+    "link": "https://hh.ru/vacancy/122493254",
+    "salary": {
+      "from": 130000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3-х лет. Знание и понимание паттернов ООП и принципов проектирования вычислительных решений. ",
+    "employer": "Линсофтверпродакшн"
+  },
+  {
+    "title": "Разработчик Python (Middle)",
+    "link": "https://hh.ru/vacancy/128443557",
+    "salary": {
+      "from": 110000,
+      "to": 150000,
+      "currency": "RUR"
+    },
+    "description": "Хорошие знания <highlighttext>Python</highlighttext> 3.6+, Django, DRF. Навык работы с Git. Умение разбираться в чужом коде. Опыт разработки в...",
+    "employer": "Единая Информационная Система ЖКХ"
+  },
+  {
+    "title": "Middle Python Developer",
+    "link": "https://hh.ru/vacancy/126925366",
+    "salary": {
+      "from": 0,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> 3+ (от 2 лет).  Опыт работы с FastAPI.  Опытом работы с реляционными базами данных...",
+    "employer": "STARTER"
+  },
+  {
+    "title": "Ассистент по поддержке учеников (Python и AI)",
+    "link": "https://hh.ru/vacancy/127944585",
+    "salary": {
+      "from": 0,
+      "to": 40000,
+      "currency": "RUR"
+    },
+    "description": "Тестирование на знание стека технологий на базе нашей LMS. Техническое собеседование. Собеседование с куратором. ​​​​​​​.",
+    "employer": "АНО ДО Московская школа программистов"
+  },
+  {
+    "title": "Преподаватель IT дисциплин в Компьютерной Академии (С++, Python)",
+    "link": "https://hh.ru/vacancy/127606064",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUR"
+    },
+    "description": "Ответственность, пунктуальность, желание делиться знанием и опытом. Знание или опыт работы как минимум в одном из указанных выше направлений компьютерных...",
+    "employer": "Компьютерная академия TOP (Компьютерная Академия ТОП)"
+  },
+  {
+    "title": "Сеньор Python-разработчик / Tech Lead (FastAPI, Elasticsearch, высоконагруженные системы)",
+    "link": "https://hh.ru/vacancy/127609865",
+    "salary": {
+      "from": 0,
+      "to": 350000,
+      "currency": "RUR"
+    },
+    "description": "Отличное, глубинное знание <highlighttext>Python</highlighttext>. Уверенное владение FastAPI и Flask. Опыт построения и поддержки микросервисной архитектуры, взаимодействие сервисов через API. ",
+    "employer": "Арго Медиа"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128339629",
+    "salary": {
+      "from": 50000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Разработчик (<highlighttext>Python</highlighttext> + Vue) с опытом работы с AI-инструментами. Умеет самостоятельно формулировать задачи и проверять качество результата, даже если...",
+    "employer": "Аст"
+  },
+  {
+    "title": "Преподаватель Питона/Python в колледж",
+    "link": "https://hh.ru/vacancy/127268759",
+    "salary": {
+      "from": 0,
+      "to": 57000,
+      "currency": "RUR"
+    },
+    "description": "У вас есть опыт преподавания в школе/колледже/вузе от 1,5 лет. Высшее или среднее образование. Умеете грамотно, ясно...",
+    "employer": "ЭДУТЕХ ГРУПП"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128323063",
+    "salary": {
+      "from": 50000,
+      "to": 0,
+      "currency": "RUR"
+    },
+    "description": "Усидчивость, прилежность. Клиентоориентированность. Быстрое освоение новых знаний. Добросовестность, честность. Стремление к росту.",
+    "employer": "Смарт Сити"
+  },
+  {
+    "title": "Senior Full-Stack Python Developer",
+    "link": "https://hh.ru/vacancy/128470914",
+    "salary": {
+      "from": 350000,
+      "to": 550000,
+      "currency": "RUR"
+    },
+    "description": "Telegram API / aiogram — желательно. — 6+ лет реального продакшена на <highlighttext>Python</highlighttext>. — Опыт проектирования и ответственности за кусок системы. — ",
+    "employer": "Эй, Бро!"
+  },
+  {
+    "title": "Fullstack-разработчик (Python, JS, PostgreSQL) | Get Robo VPN",
+    "link": "https://hh.ru/vacancy/128498835",
+    "salary": {
+      "from": 130000,
+      "to": 200000,
+      "currency": "RUR"
+    },
+    "description": "Коммерческий опыт от 2 лет (на схожем стеке). — Middle скорее: Уверенный <highlighttext>Python</highlighttext> для backend-задач. — SQL на уровне «сам пишу...",
+    "employer": "Серяков Виктор Юрьевич"
+  },
+  {
+    "title": "Python QA",
+    "link": "https://hh.ru/vacancy/128309878",
+    "salary": {
+      "from": 120000,
+      "to": 459000,
+      "currency": "RUR"
+    },
+    "description": "<highlighttext>Python</highlighttext> (PyTest, Selenium, Requests). Linux (Ubuntu, Astra, Debian, Centos). TMS (Allure TestOps). OSI/ISO (wireshark, tcpdump). SQL (PostgreSQL, Clickhouse). GIT. ",
+    "employer": "Хантфлоу интеграция УЗ2"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128309562",
+    "salary": {
+      "from": 0,
+      "to": 312000,
+      "currency": "RUR"
+    },
+    "description": "Глубокое знание <highlighttext>Python</highlighttext>. Опыт работы с искусственным интеллектом, машинным обучением и языковыми моделями. Опыт работы с высоконагруженными системами и микросервисами. ",
+    "employer": "LIAN"
+  },
+  {
+    "title": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/128307643",
+    "salary": {
+      "from": 4200000,
+      "to": 0,
+      "currency": "UZS"
+    },
+    "description": "Опыт разработки Telegram-ботов (Aiogram). Опыт разработки на <highlighttext>Python</highlighttext> + асинхронный. Навыки работы с FastAPI или другим веб-фреймворками. ",
+    "employer": "Пилигрим"
   }
 ]
